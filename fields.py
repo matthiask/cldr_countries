@@ -1,3 +1,4 @@
+from django.conf import settings
 from django.db import models
 from django.utils.functional import curry
 from django.utils.translation import ugettext_lazy as _
@@ -6,7 +7,7 @@ from django.utils.translation import ugettext_lazy as _
 from cldr_countries import data
 
 
-COUNTRIES = ('CH', 'DE', 'FR')
+COUNTRIES = getattr(settings, 'COUNTRIES', ('CH', 'DE', 'FR'))
 
 
 def get_countries():
