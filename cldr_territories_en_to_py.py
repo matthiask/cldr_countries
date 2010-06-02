@@ -15,6 +15,6 @@ from django.utils.translation import ugettext_lazy as _
 countries = {'''
 
 for t in xml.findall('localeDisplayNames/territories/territory'):
-    print ('    \'%s\': _(\'%s\'),' % (t.attrib['type'], t.text)).encode('utf-8')
+    print ('    \'%s\': _(\'%s\'),' % (t.attrib['type'], t.text.replace('\'', '\\\''))).encode('utf-8')
 
 print '}'
