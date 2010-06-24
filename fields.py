@@ -10,9 +10,5 @@ from cldr_countries import data
 COUNTRIES = getattr(settings, 'COUNTRIES', ('CH', 'DE', 'FR'))
 
 
-def get_countries():
-    for c in COUNTRIES:
-        yield (c, data.countries[c])
-
-
-CountryField = curry(models.CharField, _('country'), max_length=2, choices=get_countries())
+CountryField = curry(models.CharField, _('country'), max_length=2,
+    choices=[(c, data.countries[c]) for c in COUNTRIES])
