@@ -604,7 +604,7 @@ msgid "Canada"
 msgstr "แคนาดา"
 
 msgid "Congo [Republic]"
-msgstr "คองโก [สาธารณรัฐประชาธิปไตย]"
+msgstr "คองโก [สาธารณรัฐ]"
 
 msgid "Central African Republic"
 msgstr "สาธารณรัฐแอฟริกากลาง"
@@ -640,7 +640,7 @@ msgid "Cuba"
 msgstr "คิวบา"
 
 msgid "Canton and Enderbury Islands"
-msgstr ""
+msgstr "หมู่เกาะแคนตันและแอนเดอเบอรี"
 
 msgid "Swaziland"
 msgstr "สวาซิแลนด์"
@@ -673,7 +673,7 @@ msgid "São Tomé and Príncipe"
 msgstr "เซาตูเมและปรินซิปี"
 
 msgid "Slovakia"
-msgstr "สโลวะเกีย"
+msgstr "สโลวาเกีย"
 
 msgid "South Korea"
 msgstr "เกาหลีใต้"
@@ -736,7 +736,7 @@ msgid "Diego Garcia"
 msgstr "ดิเอโกการ์เซีย"
 
 msgid "East Germany"
-msgstr ""
+msgstr "เยอรมนีตะวันออก"
 
 msgid "Germany"
 msgstr "เยอรมนี"
@@ -745,7 +745,7 @@ msgid "Yemen"
 msgstr "เยเมน"
 
 msgid "People's Democratic Republic of Yemen"
-msgstr ""
+msgstr "สาธารณรัฐประชาธิปไตยประชาชนเยเมน"
 
 msgid "Marshall Islands"
 msgstr "หมู่เกาะมาร์แชลล์"
@@ -814,7 +814,7 @@ msgid "Lesotho"
 msgstr "เลโซโท"
 
 msgid "Thailand"
-msgstr "ประเทศไทย"
+msgstr "ไทย"
 
 msgid "French Southern Territories"
 msgstr "เฟรนช์เซาเทิร์นเทร์ริทอรีส์"
@@ -832,7 +832,7 @@ msgid "Libya"
 msgstr "ลิเบีย"
 
 msgid "Czechoslovakia"
-msgstr ""
+msgstr "เชโกสโลวาเกีย"
 
 msgid "Ascension Island"
 msgstr "เกาะแอสเซนชัน"
