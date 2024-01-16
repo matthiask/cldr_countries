@@ -1,0 +1,905 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-31 18:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "world"
+msgstr "دۇنيا"
+
+msgid "Africa"
+msgstr "ئافرىقا"
+
+msgid "North America"
+msgstr "شىمالىي ئامېرىكا"
+
+msgid "South America"
+msgstr "جەنۇبىي ئامېرىكا"
+
+msgid "Oceania"
+msgstr "ئوكيانىيە"
+
+msgid "Western Africa"
+msgstr "غەربىي ئافرىقا"
+
+msgid "Central America"
+msgstr "ئوتتۇرا ئامېرىكا"
+
+msgid "Eastern Africa"
+msgstr "شەرقىي ئافرىقا"
+
+msgid "Northern Africa"
+msgstr "شىمالىي ئافرىقا"
+
+msgid "Middle Africa"
+msgstr "ئوتتۇرا ئافرىقا"
+
+msgid "Southern Africa"
+msgstr "جەنۇبىي ئافرىقا رايونى"
+
+msgid "Americas"
+msgstr "ئامېرىكا"
+
+msgid "Northern America"
+msgstr "شىمالىي ئامېرىكا رايونى"
+
+msgid "Caribbean"
+msgstr "كارىب دېڭىزى"
+
+msgid "Eastern Asia"
+msgstr "شەرقىي ئاسىيا"
+
+msgid "Southern Asia"
+msgstr "جەنۇبىي ئاسىيا"
+
+msgid "Southeast Asia"
+msgstr "شەرقىي جەنۇبىي ئاسىيا"
+
+msgid "Southern Europe"
+msgstr "جەنۇبىي ياۋروپا"
+
+msgid "Australasia"
+msgstr "ئاۋسترالئاسىيا"
+
+msgid "Melanesia"
+msgstr "مېلانېسىيە"
+
+msgid "Micronesian Region"
+msgstr "مىكرونېزىيە رايونى"
+
+msgid "Polynesia"
+msgstr "پولىنىزىيە"
+
+msgid "Asia"
+msgstr "ئاسىيا"
+
+msgid "Central Asia"
+msgstr "ئوتتۇرا ئاسىيا"
+
+msgid "Western Asia"
+msgstr "غەربىي ئاسىيا"
+
+msgid "Europe"
+msgstr "ياۋروپا"
+
+msgid "Eastern Europe"
+msgstr "شەرقىي ياۋروپا"
+
+msgid "Northern Europe"
+msgstr "شىمالىي ياۋروپا"
+
+msgid "Western Europe"
+msgstr "غەربىي ياۋروپا"
+
+msgid "Sub-Saharan Africa"
+msgstr ""
+
+msgid "Latin America"
+msgstr "لاتىن ئامېرىكا"
+
+msgid "Ascension Island"
+msgstr "ئاسسېنسىيون ئارىلى"
+
+msgid "Andorra"
+msgstr "ئاندوررا"
+
+msgid "United Arab Emirates"
+msgstr "ئەرەب بىرلەشمە خەلىپىلىكى"
+
+msgid "Afghanistan"
+msgstr "ئافغانىستان"
+
+msgid "Antigua & Barbuda"
+msgstr "ئانتىگۇئا ۋە باربۇدا"
+
+msgid "Anguilla"
+msgstr "ئانگۋىللا"
+
+msgid "Albania"
+msgstr "ئالبانىيە"
+
+msgid "Armenia"
+msgstr "ئەرمېنىيە"
+
+msgid "Angola"
+msgstr "ئانگولا"
+
+msgid "Antarctica"
+msgstr "ئانتاركتىكا"
+
+msgid "Argentina"
+msgstr "ئارگېنتىنا"
+
+msgid "American Samoa"
+msgstr "ئامېرىكا ساموئا"
+
+msgid "Austria"
+msgstr "ئاۋىستىرىيە"
+
+msgid "Australia"
+msgstr "ئاۋسترالىيە"
+
+msgid "Aruba"
+msgstr "ئارۇبا"
+
+msgid "Åland Islands"
+msgstr "ئالاند ئاراللىرى"
+
+msgid "Azerbaijan"
+msgstr "ئەزەربەيجان"
+
+msgid "Bosnia"
+msgstr "بوسىنىيە ۋە گېرتسېگوۋىنا"
+
+msgid "Barbados"
+msgstr "باربادوس"
+
+msgid "Bangladesh"
+msgstr "بېنگال"
+
+msgid "Belgium"
+msgstr "بېلگىيە"
+
+msgid "Burkina Faso"
+msgstr "بۇركىنا فاسو"
+
+msgid "Bulgaria"
+msgstr "بۇلغارىيە"
+
+msgid "Bahrain"
+msgstr "بەھرەين"
+
+msgid "Burundi"
+msgstr "بۇرۇندى"
+
+msgid "Benin"
+msgstr "بېنىن"
+
+msgid "St. Barthélemy"
+msgstr "ساينت بارتېلېمى"
+
+msgid "Bermuda"
+msgstr "بېرمۇدا"
+
+msgid "Brunei"
+msgstr "بىرۇنېي"
+
+msgid "Bolivia"
+msgstr "بولىۋىيە"
+
+msgid "Caribbean Netherlands"
+msgstr "كارىب دېڭىزى گوللاندىيە"
+
+msgid "Brazil"
+msgstr "بىرازىلىيە"
+
+msgid "Bahamas"
+msgstr "باھاما"
+
+msgid "Bhutan"
+msgstr "بۇتان"
+
+msgid "Bouvet Island"
+msgstr "بوۋېت ئارىلى"
+
+msgid "Botswana"
+msgstr "بوتسۋانا"
+
+msgid "Belarus"
+msgstr "بېلارۇسىيە"
+
+msgid "Belize"
+msgstr "بېلىز"
+
+msgid "Canada"
+msgstr "كانادا"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "كوكوس (كىلىڭ) ئاراللىرى"
+
+msgid "Congo (DRC)"
+msgstr "كونگو (ك د ج)"
+
+msgid "Central African Republic"
+msgstr "ئوتتۇرا ئافرىقا جۇمھۇرىيىتى"
+
+msgid "Congo (Republic)"
+msgstr "كونگو (جۇمھۇرىيىتى)"
+
+msgid "Switzerland"
+msgstr "شىۋېتسارىيە"
+
+msgid "Ivory Coast"
+msgstr "پىل چىشى قىرغىقى"
+
+msgid "Cook Islands"
+msgstr "كۇك ئاراللىرى"
+
+msgid "Chile"
+msgstr "چىلى"
+
+msgid "Cameroon"
+msgstr "كامېرون"
+
+msgid "China"
+msgstr "جۇڭگو"
+
+msgid "Colombia"
+msgstr "كولومبىيە"
+
+msgid "Clipperton Island"
+msgstr "كىلىپپېرتون ئاراللىرى"
+
+msgid "Sark"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "كوستارىكا"
+
+msgid "Cuba"
+msgstr "كۇبا"
+
+msgid "Cabo Verde"
+msgstr "يېشىل تۇمشۇق"
+
+msgid "Curaçao"
+msgstr "كۇراچاۋ"
+
+msgid "Christmas Island"
+msgstr "مىلاد ئارىلى"
+
+msgid "Cyprus"
+msgstr "سىپرۇس"
+
+msgid "Czech Republic"
+msgstr "چېخ جۇمھۇرىيىتى"
+
+msgid "Germany"
+msgstr "گېرمانىيە"
+
+msgid "Diego Garcia"
+msgstr "دېگو-گارشىيا"
+
+msgid "Djibouti"
+msgstr "جىبۇتى"
+
+msgid "Denmark"
+msgstr "دانىيە"
+
+msgid "Dominica"
+msgstr "دومىنىكا"
+
+msgid "Dominican Republic"
+msgstr "دومىنىكا جۇمھۇرىيىتى"
+
+msgid "Algeria"
+msgstr "ئالجىرىيە"
+
+msgid "Ceuta & Melilla"
+msgstr "سېيتا ۋە مېلىلا"
+
+msgid "Ecuador"
+msgstr "ئېكۋاتور"
+
+msgid "Estonia"
+msgstr "ئېستونىيە"
+
+msgid "Egypt"
+msgstr "مىسىر"
+
+msgid "Western Sahara"
+msgstr "غەربىي ساخارا"
+
+msgid "Eritrea"
+msgstr "ئېرىترىيە"
+
+msgid "Spain"
+msgstr "ئىسپانىيە"
+
+msgid "Ethiopia"
+msgstr "ئېفىيوپىيە"
+
+msgid "European Union"
+msgstr "ياۋروپا ئىتتىپاقى"
+
+msgid "Eurozone"
+msgstr ""
+
+msgid "Finland"
+msgstr "فىنلاندىيە"
+
+msgid "Fiji"
+msgstr "فىجى"
+
+msgid "Falkland Islands (Islas Malvinas)"
+msgstr "فالكلاند ئاراللىرى (ئىسلاس مالۋىناس)"
+
+msgid "Micronesia"
+msgstr "مىكرونېزىيە"
+
+msgid "Faroe Islands"
+msgstr "فارو ئاراللىرى"
+
+msgid "France"
+msgstr "فىرانسىيە"
+
+msgid "Gabon"
+msgstr "گابون"
+
+msgid "UK"
+msgstr "ئەنگلىيە"
+
+msgid "Grenada"
+msgstr "گىرېنادا"
+
+msgid "Georgia"
+msgstr "گىرۇزىيە"
+
+msgid "French Guiana"
+msgstr "فىرانسىيەگە قاراشلىق گىۋىيانا"
+
+msgid "Guernsey"
+msgstr "گۇرنسېي"
+
+msgid "Ghana"
+msgstr "گانا"
+
+msgid "Gibraltar"
+msgstr "جەبىلتارىق"
+
+msgid "Greenland"
+msgstr "گىرېنلاندىيە"
+
+msgid "Gambia"
+msgstr "گامبىيە"
+
+msgid "Guinea"
+msgstr "گىۋىنىيە"
+
+msgid "Guadeloupe"
+msgstr "گىۋادېلۇپ"
+
+msgid "Equatorial Guinea"
+msgstr "ئېكۋاتور گىۋىنىيەسى"
+
+msgid "Greece"
+msgstr "گىرېتسىيە"
+
+msgid "South Georgia & South Sandwich Islands"
+msgstr "جەنۇبىي جورجىيە ۋە جەنۇبىي ساندۋىچ ئاراللىرى"
+
+msgid "Guatemala"
+msgstr "گىۋاتېمالا"
+
+msgid "Guam"
+msgstr "گۇئام"
+
+msgid "Guinea-Bissau"
+msgstr "گىۋىنىيە بىسسائۇ"
+
+msgid "Guyana"
+msgstr "گىۋىيانا"
+
+msgid "Hong Kong"
+msgstr "شياڭگاڭ"
+
+msgid "Heard & McDonald Islands"
+msgstr "ھېرد ئارىلى ۋە ماكدونالد ئاراللىرى"
+
+msgid "Honduras"
+msgstr "ھوندۇراس"
+
+msgid "Croatia"
+msgstr "كىرودىيە"
+
+msgid "Haiti"
+msgstr "ھايتى"
+
+msgid "Hungary"
+msgstr "ۋېنگىرىيە"
+
+msgid "Canary Islands"
+msgstr "كانارى ئاراللىرى"
+
+msgid "Indonesia"
+msgstr "ھىندونېزىيە"
+
+msgid "Ireland"
+msgstr "ئىرېلاندىيە"
+
+msgid "Israel"
+msgstr "ئىسرائىلىيە"
+
+msgid "Isle of Man"
+msgstr "مان ئارىلى"
+
+msgid "India"
+msgstr "ھىندىستان"
+
+msgid "Chagos Archipelago"
+msgstr "ئەنگلىيەگە قاراشلىق ھىندى ئوكيان تېررىتورىيەسى"
+
+msgid "Iraq"
+msgstr "ئىراق"
+
+msgid "Iran"
+msgstr "ئىران"
+
+msgid "Iceland"
+msgstr "ئىسلاندىيە"
+
+msgid "Italy"
+msgstr "ئىتالىيە"
+
+msgid "Jersey"
+msgstr "جېرسېي"
+
+msgid "Jamaica"
+msgstr "يامايكا"
+
+msgid "Jordan"
+msgstr "ئىيوردانىيە"
+
+msgid "Japan"
+msgstr "ياپونىيە"
+
+msgid "Kenya"
+msgstr "كېنىيە"
+
+msgid "Kyrgyzstan"
+msgstr "قىرغىزىستان"
+
+msgid "Cambodia"
+msgstr "كامبودژا"
+
+msgid "Kiribati"
+msgstr "كىرىباتى"
+
+msgid "Comoros"
+msgstr "كومورو"
+
+msgid "St. Kitts & Nevis"
+msgstr "ساينت كىتىس ۋە نېۋىس"
+
+msgid "North Korea"
+msgstr "چاۋشيەن"
+
+msgid "South Korea"
+msgstr "كورېيە"
+
+msgid "Kuwait"
+msgstr "كۇۋەيت"
+
+msgid "Cayman Islands"
+msgstr "كايمان ئاراللىرى"
+
+msgid "Kazakhstan"
+msgstr "قازاقىستان"
+
+msgid "Laos"
+msgstr "لائوس"
+
+msgid "Lebanon"
+msgstr "لىۋان"
+
+msgid "St. Lucia"
+msgstr "ساينت لۇسىيە"
+
+msgid "Liechtenstein"
+msgstr "لىكتېنستېين"
+
+msgid "Sri Lanka"
+msgstr "سىرىلانكا"
+
+msgid "Liberia"
+msgstr "لىبېرىيە"
+
+msgid "Lesotho"
+msgstr "لېسوتو"
+
+msgid "Lithuania"
+msgstr "لىتۋانىيە"
+
+msgid "Luxembourg"
+msgstr "لىيۇكسېمبۇرگ"
+
+msgid "Latvia"
+msgstr "لاتۋىيە"
+
+msgid "Libya"
+msgstr "لىۋىيە"
+
+msgid "Morocco"
+msgstr "ماراكەش"
+
+msgid "Monaco"
+msgstr "موناكو"
+
+msgid "Moldova"
+msgstr "مولدوۋا"
+
+msgid "Montenegro"
+msgstr "قارا تاغ"
+
+msgid "St. Martin"
+msgstr "ساينت مارتىن"
+
+msgid "Madagascar"
+msgstr "ماداغاسقار"
+
+msgid "Marshall Islands"
+msgstr "مارشال ئاراللىرى"
+
+msgid "North Macedonia"
+msgstr "شىمالىي ماكېدونىيە"
+
+msgid "Mali"
+msgstr "مالى"
+
+msgid "Myanmar"
+msgstr "بىرما"
+
+msgid "Mongolia"
+msgstr "موڭغۇلىيە"
+
+msgid "Macao"
+msgstr "ئاۋمېن"
+
+msgid "Northern Mariana Islands"
+msgstr "شىمالىي مارىيانا ئاراللىرى"
+
+msgid "Martinique"
+msgstr "مارتىنىكا"
+
+msgid "Mauritania"
+msgstr "ماۋرىتانىيە"
+
+msgid "Montserrat"
+msgstr "مونتسېررات"
+
+msgid "Malta"
+msgstr "مالتا"
+
+msgid "Mauritius"
+msgstr "ماۋرىتىيۇس"
+
+msgid "Maldives"
+msgstr "مالدىۋې"
+
+msgid "Malawi"
+msgstr "مالاۋى"
+
+msgid "Mexico"
+msgstr "مېكسىكا"
+
+msgid "Malaysia"
+msgstr "مالايسىيا"
+
+msgid "Mozambique"
+msgstr "موزامبىك"
+
+msgid "Namibia"
+msgstr "نامىبىيە"
+
+msgid "New Caledonia"
+msgstr "يېڭى كالېدونىيە"
+
+msgid "Niger"
+msgstr "نىگېر"
+
+msgid "Norfolk Island"
+msgstr "نورفولك ئارىلى"
+
+msgid "Nigeria"
+msgstr "نىگېرىيە"
+
+msgid "Nicaragua"
+msgstr "نىكاراگۇئا"
+
+msgid "Netherlands"
+msgstr "گوللاندىيە"
+
+msgid "Norway"
+msgstr "نورۋېگىيە"
+
+msgid "Nepal"
+msgstr "نېپال"
+
+msgid "Nauru"
+msgstr "ناۋرۇ"
+
+msgid "Niue"
+msgstr "نيۇئې"
+
+msgid "Aotearoa New Zealand"
+msgstr "يېڭى زېلاندىيە"
+
+msgid "Oman"
+msgstr "ئومان"
+
+msgid "Panama"
+msgstr "پاناما"
+
+msgid "Peru"
+msgstr "پېرۇ"
+
+msgid "French Polynesia"
+msgstr "فىرانسىيەگە قاراشلىق پولىنېزىيە"
+
+msgid "Papua New Guinea"
+msgstr "پاپۇئا يېڭى گىۋىنىيەسى"
+
+msgid "Philippines"
+msgstr "فىلىپپىن"
+
+msgid "Pakistan"
+msgstr "پاكىستان"
+
+msgid "Poland"
+msgstr "پولشا"
+
+msgid "St. Pierre & Miquelon"
+msgstr "ساينت پىيېر ۋە مىكېلون ئاراللىرى"
+
+msgid "Pitcairn Islands"
+msgstr "پىتكايرن ئاراللىرى"
+
+msgid "Puerto Rico"
+msgstr "پۇئېرتو رىكو"
+
+msgid "Palestine"
+msgstr "پەلەستىن"
+
+msgid "Portugal"
+msgstr "پورتۇگالىيە"
+
+msgid "Palau"
+msgstr "پالائۇ"
+
+msgid "Paraguay"
+msgstr "پاراگۋاي"
+
+msgid "Qatar"
+msgstr "قاتار"
+
+msgid "Outlying Oceania"
+msgstr "ئوكيانىيە ئەتراپىدىكى ئاراللار"
+
+msgid "Réunion"
+msgstr "رېيۇنىيون"
+
+msgid "Romania"
+msgstr "رومىنىيە"
+
+msgid "Serbia"
+msgstr "سېربىيە"
+
+msgid "Russia"
+msgstr "رۇسىيە"
+
+msgid "Rwanda"
+msgstr "رىۋاندا"
+
+msgid "Saudi Arabia"
+msgstr "سەئۇدىي ئەرەبىستان"
+
+msgid "Solomon Islands"
+msgstr "سولومون ئاراللىرى"
+
+msgid "Seychelles"
+msgstr "سېيشېل"
+
+msgid "Sudan"
+msgstr "سۇدان"
+
+msgid "Sweden"
+msgstr "شىۋېتسىيە"
+
+msgid "Singapore"
+msgstr "سىنگاپور"
+
+msgid "St. Helena"
+msgstr "ساينىت ھېلېنا"
+
+msgid "Slovenia"
+msgstr "سىلوۋېنىيە"
+
+msgid "Svalbard & Jan Mayen"
+msgstr "سىۋالبارد ۋە يان مايېن"
+
+msgid "Slovakia"
+msgstr "سىلوۋاكىيە"
+
+msgid "Sierra Leone"
+msgstr "سېررالېئون"
+
+msgid "San Marino"
+msgstr "سان مارىنو"
+
+msgid "Senegal"
+msgstr "سېنېگال"
+
+msgid "Somalia"
+msgstr "سومالى"
+
+msgid "Suriname"
+msgstr "سۇرىنام"
+
+msgid "South Sudan"
+msgstr "جەنۇبىي سۇدان"
+
+msgid "São Tomé & Príncipe"
+msgstr "سان تومې ۋە پرىنسىپې"
+
+msgid "El Salvador"
+msgstr "سالۋادور"
+
+msgid "Sint Maarten"
+msgstr "سىنت مارتېن"
+
+msgid "Syria"
+msgstr "سۇرىيە"
+
+msgid "Swaziland"
+msgstr "سىۋېزىلاند"
+
+msgid "Tristan da Cunha"
+msgstr "ترىستان داكۇنھا"
+
+msgid "Turks & Caicos Islands"
+msgstr "تۇركس ۋە كايكوس ئاراللىرى"
+
+msgid "Chad"
+msgstr "چاد"
+
+msgid "French Southern Territories"
+msgstr "فىرانسىيەنىڭ جەنۇبىي زېمىنى"
+
+msgid "Togo"
+msgstr "توگو"
+
+msgid "Thailand"
+msgstr "تايلاند"
+
+msgid "Tajikistan"
+msgstr "تاجىكىستان"
+
+msgid "Tokelau"
+msgstr "توكېلاۋ"
+
+msgid "East Timor"
+msgstr "شەرقىي تىمور"
+
+msgid "Turkmenistan"
+msgstr "تۈركمەنىستان"
+
+msgid "Tunisia"
+msgstr "تۇنىس"
+
+msgid "Tonga"
+msgstr "تونگا"
+
+msgid "Turkey"
+msgstr "تۈركىيە"
+
+msgid "Trinidad & Tobago"
+msgstr "تىرىنىداد ۋە توباگو"
+
+msgid "Tuvalu"
+msgstr "تۇۋالۇ"
+
+msgid "Taiwan"
+msgstr "تەيۋەن"
+
+msgid "Tanzania"
+msgstr "تانزانىيە"
+
+msgid "Ukraine"
+msgstr "ئۇكرائىنا"
+
+msgid "Uganda"
+msgstr "ئۇگاندا"
+
+msgid "U.S. Outlying Islands"
+msgstr "ئا ق ش تاشقى ئاراللىرى"
+
+msgid "UN"
+msgstr ""
+
+msgid "US"
+msgstr "ئا ق ش"
+
+msgid "Uruguay"
+msgstr "ئۇرۇگۋاي"
+
+msgid "Uzbekistan"
+msgstr "ئۆزبېكىستان"
+
+msgid "Vatican City"
+msgstr "ۋاتىكان"
+
+msgid "St. Vincent & Grenadines"
+msgstr "ساينت ۋىنسېنت ۋە گىرېنادىنېس"
+
+msgid "Venezuela"
+msgstr "ۋېنېسۇئېلا"
+
+msgid "British Virgin Islands"
+msgstr "ئەنگلىيە ۋىرگىن ئاراللىرى"
+
+msgid "U.S. Virgin Islands"
+msgstr "ئا ق ش ۋىرگىن ئاراللىرى"
+
+msgid "Vietnam"
+msgstr "ۋىيېتنام"
+
+msgid "Vanuatu"
+msgstr "ۋانۇئاتۇ"
+
+msgid "Wallis & Futuna"
+msgstr "ۋاللىس ۋە فۇتۇنا"
+
+msgid "Samoa"
+msgstr "ساموئا"
+
+msgid "Pseudo-Accents"
+msgstr ""
+
+msgid "Pseudo-Bidi"
+msgstr ""
+
+msgid "Kosovo"
+msgstr "كوسوۋو"
+
+msgid "Yemen"
+msgstr "يەمەن"
+
+msgid "Mayotte"
+msgstr "مايوتى"
+
+msgid "South Africa"
+msgstr "جەنۇبىي ئافرىقا"
+
+msgid "Zambia"
+msgstr "زامبىيە"
+
+msgid "Zimbabwe"
+msgstr "زىمبابۋې"
+
+msgid "Unknown Region"
+msgstr "يوچۇن جاي"
+

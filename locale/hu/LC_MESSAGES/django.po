@@ -18,6 +18,156 @@ msgstr ""
 "Language: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
+msgid "world"
+msgstr "Világ"
+
+msgid "Africa"
+msgstr "Afrika"
+
+msgid "North America"
+msgstr "Észak-Amerika"
+
+msgid "South America"
+msgstr "Dél-Amerika"
+
+msgid "Oceania"
+msgstr "Óceánia"
+
+msgid "Western Africa"
+msgstr "Nyugat-Afrika"
+
+msgid "Central America"
+msgstr "Közép-Amerika"
+
+msgid "Eastern Africa"
+msgstr "Kelet-Afrika"
+
+msgid "Northern Africa"
+msgstr "Észak-Afrika"
+
+msgid "Middle Africa"
+msgstr "Közép-Afrika"
+
+msgid "Southern Africa"
+msgstr "Afrika déli része"
+
+msgid "Americas"
+msgstr "Amerika"
+
+msgid "Northern America"
+msgstr "Amerika északi része"
+
+msgid "Caribbean"
+msgstr "Karib-térség"
+
+msgid "Eastern Asia"
+msgstr "Kelet-Ázsia"
+
+msgid "Southern Asia"
+msgstr "Dél-Ázsia"
+
+msgid "Southeast Asia"
+msgstr "Délkelet-Ázsia"
+
+msgid "Southern Europe"
+msgstr "Dél-Európa"
+
+msgid "Australasia"
+msgstr "Ausztrálázsia"
+
+msgid "Melanesia"
+msgstr "Melanézia"
+
+msgid "Micronesian Region"
+msgstr "Mikronéziai régió"
+
+msgid "Polynesia"
+msgstr "Polinézia"
+
+msgid "Asia"
+msgstr "Ázsia"
+
+msgid "Central Asia"
+msgstr "Közép-Ázsia"
+
+msgid "Western Asia"
+msgstr "Nyugat-Ázsia"
+
+msgid "Europe"
+msgstr "Európa"
+
+msgid "Eastern Europe"
+msgstr "Kelet-Európa"
+
+msgid "Northern Europe"
+msgstr "Észak-Európa"
+
+msgid "Western Europe"
+msgstr "Nyugat-Európa"
+
+msgid "Sub-Saharan Africa"
+msgstr "Szubszaharai Afrika"
+
+msgid "Latin America"
+msgstr "Latin-Amerika"
+
+msgid "Ascension Island"
+msgstr "Ascension-sziget"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "United Arab Emirates"
+msgstr "Egyesült Arab Emírségek"
+
+msgid "Afghanistan"
+msgstr "Afganisztán"
+
+msgid "Antigua & Barbuda"
+msgstr "Antigua és Barbuda"
+
+msgid "Anguilla"
+msgstr "Anguilla"
+
+msgid "Albania"
+msgstr "Albánia"
+
+msgid "Armenia"
+msgstr "Örményország"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Antarctica"
+msgstr "Antarktisz"
+
+msgid "Argentina"
+msgstr "Argentína"
+
+msgid "American Samoa"
+msgstr "Amerikai Szamoa"
+
+msgid "Austria"
+msgstr "Ausztria"
+
+msgid "Australia"
+msgstr "Ausztrália"
+
+msgid "Aruba"
+msgstr "Aruba"
+
+msgid "Åland Islands"
+msgstr "Åland-szigetek"
+
+msgid "Azerbaijan"
+msgstr "Azerbajdzsán"
+
+msgid "Bosnia"
+msgstr "Bosznia-Hercegovina"
+
+msgid "Barbados"
+msgstr "Barbados"
+
 msgid "Bangladesh"
 msgstr "Banglades"
 
@@ -30,20 +180,17 @@ msgstr "Burkina Faso"
 msgid "Bulgaria"
 msgstr "Bulgária"
 
-msgid "Venezuela"
-msgstr "Venezuela"
+msgid "Bahrain"
+msgstr "Bahrein"
 
-msgid "Bosnia and Herzegovina"
-msgstr "Bosznia-Hercegovina"
+msgid "Burundi"
+msgstr "Burundi"
 
-msgid "Barbados"
-msgstr "Barbados"
+msgid "Benin"
+msgstr "Benin"
 
-msgid "Wallis and Futuna"
-msgstr "Wallis- és Futuna-szigetek"
-
-msgid "Saint Barthélemy"
-msgstr "Saint Barthélemy"
+msgid "St. Barthélemy"
+msgstr "Saint-Barthélemy"
 
 msgid "Bermuda"
 msgstr "Bermuda"
@@ -54,20 +201,17 @@ msgstr "Brunei"
 msgid "Bolivia"
 msgstr "Bolívia"
 
-msgid "Bahrain"
-msgstr "Bahrein"
+msgid "Caribbean Netherlands"
+msgstr "Holland Karib-térség"
 
-msgid "Burundi"
-msgstr "Burundi"
+msgid "Brazil"
+msgstr "Brazília"
 
-msgid "Benin"
-msgstr "Benin"
+msgid "Bahamas"
+msgstr "Bahama-szigetek"
 
 msgid "Bhutan"
 msgstr "Bhután"
-
-msgid "Western Africa"
-msgstr "Nyugat-Afrika"
 
 msgid "Bouvet Island"
 msgstr "Bouvet-sziget"
@@ -75,281 +219,101 @@ msgstr "Bouvet-sziget"
 msgid "Botswana"
 msgstr "Botswana"
 
-msgid "Eastern Africa"
-msgstr "Kelet-Afrika"
-
-msgid "Northern Africa"
-msgstr "Észak-Afrika"
-
-msgid "Brazil"
-msgstr "Brazília"
-
-msgid "Middle Africa"
-msgstr "Közép-Afrika"
-
-msgid "Southern Africa"
-msgstr "Afrika déli része"
-
-msgid "Americas"
-msgstr "Amerika"
-
-msgid "Wake Island"
-msgstr ""
-
 msgid "Belarus"
-msgstr "Fehéroroszország"
+msgstr "Belarusz"
 
 msgid "Belize"
 msgstr "Belize"
 
-msgid "Latvia"
-msgstr "Lettország"
+msgid "Canada"
+msgstr "Kanada"
 
-msgid "Rwanda"
-msgstr "Ruanda"
+msgid "Cocos (Keeling) Islands"
+msgstr "Kókusz (Keeling)-szigetek"
 
-msgid "Pacific Islands Trust Territory"
-msgstr ""
+msgid "Congo (DRC)"
+msgstr "Kongó (KDK)"
 
-msgid "East Timor"
-msgstr "Kelet-Timor"
+msgid "Central African Republic"
+msgstr "Közép-afrikai Köztársaság"
 
-msgid "Johnston Island"
-msgstr ""
+msgid "Congo (Republic)"
+msgstr "Kongó (Köztársaság)"
 
-msgid "Turkmenistan"
-msgstr "Türkmenisztán"
+msgid "Switzerland"
+msgstr "Svájc"
 
-msgid "Oman"
-msgstr "Omán"
+msgid "Ivory Coast"
+msgstr "Elefántcsontpart"
 
-msgid "Tajikistan"
-msgstr "Tadzsikisztán"
+msgid "Cook Islands"
+msgstr "Cook-szigetek"
 
-msgid "Romania"
-msgstr "Románia"
+msgid "Chile"
+msgstr "Chile"
 
-msgid "Tokelau"
-msgstr "Tokelau"
+msgid "Cameroon"
+msgstr "Kamerun"
 
-msgid "Guinea-Bissau"
-msgstr "Guinea-Bissau"
+msgid "China"
+msgstr "Kína"
 
-msgid "Guam"
-msgstr "Guam"
+msgid "Colombia"
+msgstr "Kolumbia"
 
-msgid "Guatemala"
-msgstr "Guatemala"
+msgid "Clipperton Island"
+msgstr "Clipperton-sziget"
 
-msgid "South Georgia and the South Sandwich Islands"
-msgstr "Dél-Georgia és Déli-Sandwich-szigetek"
+msgid "Sark"
+msgstr "Sark"
 
-msgid "Greece"
-msgstr "Görögország"
+msgid "Costa Rica"
+msgstr "Costa Rica"
 
-msgid "Equatorial Guinea"
-msgstr "Egyenlítői-Guinea"
+msgid "Cuba"
+msgstr "Kuba"
 
-msgid "Guadeloupe"
-msgstr "Guadeloupe"
+msgid "Cabo Verde"
+msgstr "Zöld-foki Köztársaság"
 
-msgid "Japan"
-msgstr "Japán"
+msgid "Curaçao"
+msgstr "Curaçao"
 
-msgid "Kiribati"
-msgstr "Kiribati"
+msgid "Christmas Island"
+msgstr "Karácsony-sziget"
 
-msgid "Guyana"
-msgstr "Guyana"
+msgid "Cyprus"
+msgstr "Ciprus"
 
-msgid "Guernsey"
-msgstr "Guernsey"
+msgid "Czech Republic"
+msgstr "Cseh Köztársaság"
 
-msgid "French Guiana"
-msgstr "Francia Guyana"
+msgid "Germany"
+msgstr "Németország"
 
-msgid "Georgia"
-msgstr "Grúzia"
+msgid "Diego Garcia"
+msgstr "Diego Garcia"
 
-msgid "Grenada"
-msgstr "Grenada"
+msgid "Djibouti"
+msgstr "Dzsibuti"
 
-msgid "Northern America"
-msgstr "Amerika északi része"
+msgid "Denmark"
+msgstr "Dánia"
 
-msgid "United Kingdom"
-msgstr "Egyesült Királyság"
+msgid "Dominica"
+msgstr "Dominika"
 
-msgid "Gabon"
-msgstr "Gabon"
+msgid "Dominican Republic"
+msgstr "Dominikai Köztársaság"
 
-msgid "El Salvador"
-msgstr "Salvador"
+msgid "Algeria"
+msgstr "Algéria"
 
-msgid "Guinea"
-msgstr "Guinea"
+msgid "Ceuta & Melilla"
+msgstr "Ceuta és Melilla"
 
-msgid "Gambia"
-msgstr "Gambia"
-
-msgid "Greenland"
-msgstr "Grönland"
-
-msgid "Caribbean"
-msgstr "Karib-térség"
-
-msgid "Gibraltar"
-msgstr "Gibraltár"
-
-msgid "Ghana"
-msgstr "Ghána"
-
-msgid "Jersey"
-msgstr "Jersey"
-
-msgid "Tunisia"
-msgstr "Tunézia"
-
-msgid "Jamaica"
-msgstr "Jamaica"
-
-msgid "Svalbard and Jan Mayen"
-msgstr "Spitzbergák és Jan Mayen-szigetek"
-
-msgid "Central America"
-msgstr "Közép-Amerika"
-
-msgid "Samoa"
-msgstr "Szamoa"
-
-msgid "Tristan da Cunha"
-msgstr "Tristan da Cunha"
-
-msgid "Latin America and the Caribbean"
-msgstr "Latin-Amerika és a Karib-térség"
-
-msgid "British Antarctic Territory"
-msgstr ""
-
-msgid "Vatican City"
-msgstr "Vatikán"
-
-msgid "Croatia"
-msgstr "Horvátország"
-
-msgid "Bahamas"
-msgstr "Bahama-szigetek"
-
-msgid "Haiti"
-msgstr "Haiti"
-
-msgid "Hungary"
-msgstr "Magyarország"
-
-msgid "Hong Kong"
-msgstr "Hongkong"
-
-msgid "Southern Europe"
-msgstr "Dél-Európa"
-
-msgid "Honduras"
-msgstr "Honduras"
-
-msgid "Union of Soviet Socialist Republics"
-msgstr ""
-
-msgid "Finland"
-msgstr "Finnország"
-
-msgid "Asia"
-msgstr "Ázsia"
-
-msgid "Eastern Asia"
-msgstr "Kelet-Ázsia"
-
-msgid "Ukraine"
-msgstr "Ukrajna"
-
-msgid "Southern Asia"
-msgstr "Dél-Ázsia"
-
-msgid "South-Eastern Asia"
-msgstr "Délkelet-Ázsia"
-
-msgid "Puerto Rico"
-msgstr "Puerto Rico"
-
-msgid "Palestinian Territories"
-msgstr "Palesztin Terület"
-
-msgid "Channel Islands"
-msgstr "Csatorna-szigetek"
-
-msgid "Falkland Islands [Islas Malvinas]"
-msgstr "Falkland-szigetek [Malvin-szigetek]"
-
-msgid "British Indian Ocean Territory"
-msgstr "Brit Indiai-óceáni Terület"
-
-msgid "Palau"
-msgstr "Palau"
-
-msgid "Portugal"
-msgstr "Portugália"
-
-msgid "U.S. Miscellaneous Pacific Islands"
-msgstr ""
-
-msgid "Panama Canal Zone"
-msgstr ""
-
-msgid "Moldova"
-msgstr "Moldova"
-
-msgid "Micronesia"
-msgstr "Mikronézia"
-
-msgid "Iraq"
-msgstr "Irak"
-
-msgid "Panama"
-msgstr "Panama"
-
-msgid "French Polynesia"
-msgstr "Francia Polinézia"
-
-msgid "Papua New Guinea"
-msgstr "Pápua Új-Guinea"
-
-msgid "Peru"
-msgstr "Peru"
-
-msgid "Pakistan"
-msgstr "Pakisztán"
-
-msgid "Philippines"
-msgstr "Fülöp-szigetek"
-
-msgid "Faroe Islands"
-msgstr "Feröer-szigetek"
-
-msgid "Pitcairn Islands"
-msgstr "Pitcairn-szigetek"
-
-msgid "Poland"
-msgstr "Lengyelország"
-
-msgid "Saint Pierre and Miquelon"
-msgstr "Saint Pierre és Miquelon"
-
-msgid "Zambia"
-msgstr "Zambia"
-
-msgid "Western Sahara"
-msgstr "Nyugat-Szahara"
-
-msgid "Russia"
-msgstr "Oroszországi Föderáció"
+msgid "Ecuador"
+msgstr "Ecuador"
 
 msgid "Estonia"
 msgstr "Észtország"
@@ -357,59 +321,227 @@ msgstr "Észtország"
 msgid "Egypt"
 msgstr "Egyiptom"
 
-msgid "Ceuta and Melilla"
-msgstr "Ceuta és Melilla"
-
-msgid "South Africa"
-msgstr "Dél-afrikai Köztársaság"
-
-msgid "Ecuador"
-msgstr "Ecuador"
-
-msgid "Italy"
-msgstr "Olaszország"
-
-msgid "Vietnam"
-msgstr "Vietnam"
-
-msgid "Unknown or Invalid Region"
-msgstr "Ismeretlen vagy érvénytelen körzet"
-
-msgid "Solomon Islands"
-msgstr "Salamon-szigetek"
-
-msgid "European Union"
-msgstr "Európai Unió"
-
-msgid "Ethiopia"
-msgstr "Etiópia"
-
-msgid "Somalia"
-msgstr "Szomália"
-
-msgid "Zimbabwe"
-msgstr "Zimbabwe"
-
-msgid "Saudi Arabia"
-msgstr "Szaúd-Arábia"
-
-msgid "Spain"
-msgstr "Spanyolország"
+msgid "Western Sahara"
+msgstr "Nyugat-Szahara"
 
 msgid "Eritrea"
 msgstr "Eritrea"
 
-msgid "Montenegro"
-msgstr "Montenegró"
+msgid "Spain"
+msgstr "Spanyolország"
 
-msgid "Antarctica"
-msgstr "Antarktisz"
+msgid "Ethiopia"
+msgstr "Etiópia"
 
-msgid "Madagascar"
-msgstr "Madagaszkár"
+msgid "European Union"
+msgstr "Európai Unió"
 
-msgid "Saint Martin"
-msgstr "Saint Martin"
+msgid "Eurozone"
+msgstr "Eurózóna"
+
+msgid "Finland"
+msgstr "Finnország"
+
+msgid "Fiji"
+msgstr "Fidzsi"
+
+msgid "Falkland Islands (Islas Malvinas)"
+msgstr "Falkland-szigetek (Malvin-szigetek)"
+
+msgid "Micronesia"
+msgstr "Mikronézia"
+
+msgid "Faroe Islands"
+msgstr "Feröer szigetek"
+
+msgid "France"
+msgstr "Franciaország"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "UK"
+msgstr "UK"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Georgia"
+msgstr "Grúzia"
+
+msgid "French Guiana"
+msgstr "Francia Guyana"
+
+msgid "Guernsey"
+msgstr "Guernsey"
+
+msgid "Ghana"
+msgstr "Ghána"
+
+msgid "Gibraltar"
+msgstr "Gibraltár"
+
+msgid "Greenland"
+msgstr "Grönland"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+msgid "Equatorial Guinea"
+msgstr "Egyenlítői-Guinea"
+
+msgid "Greece"
+msgstr "Görögország"
+
+msgid "South Georgia & South Sandwich Islands"
+msgstr "Déli-Georgia és Déli-Sandwich-szigetek"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guinea-Bissau"
+msgstr "Bissau-Guinea"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgid "Heard & McDonald Islands"
+msgstr "Heard-sziget és McDonald-szigetek"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Croatia"
+msgstr "Horvátország"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Hungary"
+msgstr "Magyarország"
+
+msgid "Canary Islands"
+msgstr "Kanári-szigetek"
+
+msgid "Indonesia"
+msgstr "Indonézia"
+
+msgid "Ireland"
+msgstr "Írország"
+
+msgid "Israel"
+msgstr "Izrael"
+
+msgid "Isle of Man"
+msgstr "Man-sziget"
+
+msgid "India"
+msgstr "India"
+
+msgid "Chagos Archipelago"
+msgstr "Chagos-szigetcsoport"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Iran"
+msgstr "Irán"
+
+msgid "Iceland"
+msgstr "Izland"
+
+msgid "Italy"
+msgstr "Olaszország"
+
+msgid "Jersey"
+msgstr "Jersey"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Jordan"
+msgstr "Jordánia"
+
+msgid "Japan"
+msgstr "Japán"
+
+msgid "Kenya"
+msgstr "Kenya"
+
+msgid "Kyrgyzstan"
+msgstr "Kirgizisztán"
+
+msgid "Cambodia"
+msgstr "Kambodzsa"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "Comoros"
+msgstr "Comore-szigetek"
+
+msgid "St. Kitts & Nevis"
+msgstr "Saint Kitts és Nevis"
+
+msgid "North Korea"
+msgstr "Észak-Korea"
+
+msgid "South Korea"
+msgstr "Dél-Korea"
+
+msgid "Kuwait"
+msgstr "Kuvait"
+
+msgid "Cayman Islands"
+msgstr "Kajmán-szigetek"
+
+msgid "Kazakhstan"
+msgstr "Kazahsztán"
+
+msgid "Laos"
+msgstr "Laosz"
+
+msgid "Lebanon"
+msgstr "Libanon"
+
+msgid "St. Lucia"
+msgstr "Saint Lucia"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Sri Lanka"
+msgstr "Srí Lanka"
+
+msgid "Liberia"
+msgstr "Libéria"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Lithuania"
+msgstr "Litvánia"
+
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+msgid "Latvia"
+msgstr "Lettország"
+
+msgid "Libya"
+msgstr "Líbia"
 
 msgid "Morocco"
 msgstr "Marokkó"
@@ -417,137 +549,74 @@ msgstr "Marokkó"
 msgid "Monaco"
 msgstr "Monaco"
 
-msgid "Uzbekistan"
-msgstr "Üzbegisztán"
+msgid "Moldova"
+msgstr "Moldova"
 
-msgid "Myanmar [Burma]"
-msgstr "Mianmar [Burma]"
+msgid "Montenegro"
+msgstr "Montenegró"
+
+msgid "St. Martin"
+msgstr "Saint Martin"
+
+msgid "Madagascar"
+msgstr "Madagaszkár"
+
+msgid "Marshall Islands"
+msgstr "Marshall-szigetek"
+
+msgid "North Macedonia"
+msgstr "Észak-Macedónia"
 
 msgid "Mali"
 msgstr "Mali"
 
-msgid "Macau"
-msgstr "Makaó"
+msgid "Myanmar"
+msgstr "Mianmar"
 
 msgid "Mongolia"
 msgstr "Mongólia"
 
-msgid "Heard Island and McDonald Islands"
-msgstr "Heard és McDonald Szigetek"
-
-msgid "American Samoa"
-msgstr "Amerikai Szamoa"
-
-msgid "Macedonia [FYROM]"
-msgstr "Macedónia [Volt Jugoszláv Köztársaság]"
-
-msgid "Mauritius"
-msgstr "Mauritius"
-
-msgid "Malta"
-msgstr "Málta"
-
-msgid "Malawi"
-msgstr "Malawi"
-
-msgid "Maldives"
-msgstr "Maldív-szigetek"
-
-msgid "Martinique"
-msgstr "Martinique"
+msgid "Macao"
+msgstr "Makaó"
 
 msgid "Northern Mariana Islands"
 msgstr "Északi Mariana-szigetek"
 
-msgid "Montserrat"
-msgstr "Montserrat"
+msgid "Martinique"
+msgstr "Martinique"
 
 msgid "Mauritania"
 msgstr "Mauritánia"
 
-msgid "Isle of Man"
-msgstr "Man-sziget"
+msgid "Montserrat"
+msgstr "Montserrat"
 
-msgid "Uganda"
-msgstr "Uganda"
+msgid "Malta"
+msgstr "Málta"
 
-msgid "Tanzania"
-msgstr "Tanzánia"
+msgid "Mauritius"
+msgstr "Mauritius"
 
-msgid "Malaysia"
-msgstr "Malajzia"
+msgid "Maldives"
+msgstr "Maldív-szigetek"
+
+msgid "Malawi"
+msgstr "Malawi"
 
 msgid "Mexico"
 msgstr "Mexikó"
 
-msgid "Israel"
-msgstr "Izrael"
+msgid "Malaysia"
+msgstr "Malajzia"
 
-msgid "Canary Islands"
-msgstr "Kanári-szigetek"
-
-msgid "French Southern and Antarctic Territories"
-msgstr ""
-
-msgid "France"
-msgstr "Franciaország"
-
-msgid "Aruba"
-msgstr "Aruba"
-
-msgid "Dominican Republic"
-msgstr "Dominikai Köztársaság"
-
-msgid "Metropolitan France"
-msgstr ""
-
-msgid "Saint Helena"
-msgstr "Szent Ilona"
-
-msgid "Saint Vincent and the Grenadines"
-msgstr "Saint Vincent és a Grenadine-szigetek"
-
-msgid "Réunion"
-msgstr "Reunion"
-
-msgid "Melanesia"
-msgstr "Melanézia"
-
-msgid "Djibouti"
-msgstr "Dzsibuti"
-
-msgid "Fiji"
-msgstr "Fidzsi"
-
-msgid "Micronesian Region"
-msgstr "Mikronéziai régió"
-
-msgid "Commonwealth of Independent States"
-msgstr "Független Államok Közössége"
-
-msgid "Australia and New Zealand"
-msgstr "Ausztrália és Új-Zéland"
-
-msgid "Nicaragua"
-msgstr "Nicaragua"
-
-msgid "Netherlands"
-msgstr "Hollandia"
-
-msgid "Norway"
-msgstr "Norvégia"
+msgid "Mozambique"
+msgstr "Mozambik"
 
 msgid "Namibia"
 msgstr "Namíbia"
 
-msgid "Vanuatu"
-msgstr "Vanuatu"
-
 msgid "New Caledonia"
 msgstr "Új-Kaledónia"
-
-msgid "North Vietnam"
-msgstr ""
 
 msgid "Niger"
 msgstr "Niger"
@@ -558,263 +627,164 @@ msgstr "Norfolk-sziget"
 msgid "Nigeria"
 msgstr "Nigéria"
 
-msgid "New Zealand"
-msgstr "Új-Zéland"
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "Netherlands"
+msgstr "Hollandia"
+
+msgid "Norway"
+msgstr "Norvégia"
 
 msgid "Nepal"
 msgstr "Nepál"
 
-msgid "Dronning Maud Land"
-msgstr ""
-
 msgid "Nauru"
 msgstr "Nauru"
-
-msgid "Neutral Zone"
-msgstr ""
 
 msgid "Niue"
 msgstr "Niue"
 
-msgid "Polynesia"
-msgstr "Polinézia"
+msgid "Aotearoa New Zealand"
+msgstr "Aotearoa (Új-Zéland)"
 
-msgid "Ivory Coast"
-msgstr "Elefántcsontpart"
+msgid "Oman"
+msgstr "Omán"
 
-msgid "Switzerland"
-msgstr "Svájc"
+msgid "Panama"
+msgstr "Panama"
 
-msgid "Colombia"
-msgstr "Kolumbia"
+msgid "Peru"
+msgstr "Peru"
 
-msgid "China"
-msgstr "Kína"
+msgid "French Polynesia"
+msgstr "Francia Polinézia"
 
-msgid "Cameroon"
-msgstr "Kamerun"
+msgid "Papua New Guinea"
+msgstr "Pápua Új-Guinea"
 
-msgid "Chile"
-msgstr "Chile"
+msgid "Philippines"
+msgstr "Fülöp-szigetek"
 
-msgid "Cocos [Keeling] Islands"
-msgstr "Kókusz-szigetek"
+msgid "Pakistan"
+msgstr "Pakisztán"
 
-msgid "Canada"
-msgstr "Kanada"
+msgid "Poland"
+msgstr "Lengyelország"
 
-msgid "Congo [Republic]"
-msgstr "Kongó [Köztársaság]"
+msgid "St. Pierre & Miquelon"
+msgstr "Saint-Pierre és Miquelon"
 
-msgid "Central African Republic"
-msgstr "Közép-afrikai Köztársaság"
+msgid "Pitcairn Islands"
+msgstr "Pitcairn-szigetek"
 
-msgid "Congo [DRC]"
-msgstr "Kongó [Kongói Demokratikus Köztársaság]"
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
 
-msgid "Czech Republic"
-msgstr "Csehország"
+msgid "Palestine"
+msgstr "Palesztina"
 
-msgid "Cyprus"
-msgstr "Ciprus"
+msgid "Portugal"
+msgstr "Portugália"
 
-msgid "Christmas Island"
-msgstr "Karácsony-szigetek"
-
-msgid "Serbia and Montenegro"
-msgstr "Szerbia és Montenegró"
-
-msgid "Costa Rica"
-msgstr "Costa Rica"
+msgid "Palau"
+msgstr "Palau"
 
 msgid "Paraguay"
 msgstr "Paraguay"
 
-msgid "Clipperton Island"
-msgstr "Clipperton-sziget"
+msgid "Qatar"
+msgstr "Katar"
 
-msgid "Cape Verde"
-msgstr "Zöld-foki Köztársaság"
+msgid "Outlying Oceania"
+msgstr "Külső-Óceánia"
 
-msgid "Cuba"
-msgstr "Kuba"
+msgid "Réunion"
+msgstr "Réunion"
 
-msgid "Canton and Enderbury Islands"
-msgstr ""
+msgid "Romania"
+msgstr "Románia"
 
-msgid "Swaziland"
-msgstr "Szváziföld"
+msgid "Serbia"
+msgstr "Szerbia"
 
-msgid "Syria"
-msgstr "Szíria"
+msgid "Russia"
+msgstr "Oroszország"
 
-msgid "Kyrgyzstan"
-msgstr "Kirgizisztán"
+msgid "Rwanda"
+msgstr "Ruanda"
 
-msgid "Kenya"
-msgstr "Kenya"
+msgid "Saudi Arabia"
+msgstr "Szaúd-Arábia"
 
-msgid "Suriname"
-msgstr "Suriname"
-
-msgid "Central Asia"
-msgstr "Közép-Ázsia"
-
-msgid "Cambodia"
-msgstr "Kambodzsa"
-
-msgid "Saint Kitts and Nevis"
-msgstr "Saint Kitts és Nevis"
-
-msgid "Comoros"
-msgstr "Comore-szigetek"
-
-msgid "São Tomé and Príncipe"
-msgstr "Sao Tomé és Príncipe"
-
-msgid "Slovakia"
-msgstr "Szlovákia"
-
-msgid "South Korea"
-msgstr "Dél-Korea"
-
-msgid "Slovenia"
-msgstr "Szlovénia"
-
-msgid "North Korea"
-msgstr "Észak-Korea"
-
-msgid "Kuwait"
-msgstr "Kuvait"
-
-msgid "Senegal"
-msgstr "Szenegál"
-
-msgid "San Marino"
-msgstr "San Marino"
-
-msgid "Sierra Leone"
-msgstr "Sierra Leone"
+msgid "Solomon Islands"
+msgstr "Salamon-szigetek"
 
 msgid "Seychelles"
 msgstr "Seychelle-szigetek"
 
-msgid "Kazakhstan"
-msgstr "Kazahsztán"
-
-msgid "Cayman Islands"
-msgstr "Kajmán-szigetek"
-
-msgid "Singapore"
-msgstr "Szingapúr"
+msgid "Sudan"
+msgstr "Szudán"
 
 msgid "Sweden"
 msgstr "Svédország"
 
-msgid "Sudan"
-msgstr "Szudán"
+msgid "Singapore"
+msgstr "Szingapúr"
 
-msgid "Eastern Europe"
-msgstr "Kelet-Európa"
+msgid "St. Helena"
+msgstr "Szent Ilona"
 
-msgid "Europe"
-msgstr "Európa"
+msgid "Slovenia"
+msgstr "Szlovénia"
 
-msgid "Dominica"
-msgstr "Dominika"
+msgid "Svalbard & Jan Mayen"
+msgstr "Svalbard és Jan Mayen"
 
-msgid "Western Europe"
-msgstr "Nyugat-Európa"
+msgid "Slovakia"
+msgstr "Szlovákia"
 
-msgid "Northern Europe"
-msgstr "Észak-Európa"
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
 
-msgid "British Virgin Islands"
-msgstr "Brit Virgin-szigetek"
+msgid "San Marino"
+msgstr "San Marino"
 
-msgid "Diego Garcia"
-msgstr "Diego Garcia"
+msgid "Senegal"
+msgstr "Szenegál"
 
-msgid "East Germany"
-msgstr ""
+msgid "Somalia"
+msgstr "Szomália"
 
-msgid "Germany"
-msgstr "Németország"
+msgid "Suriname"
+msgstr "Suriname"
 
-msgid "Yemen"
-msgstr "Jemen"
+msgid "South Sudan"
+msgstr "Dél-Szudán"
 
-msgid "People's Democratic Republic of Yemen"
-msgstr ""
+msgid "São Tomé & Príncipe"
+msgstr "São Tomé és Príncipe"
 
-msgid "Marshall Islands"
-msgstr "Marshall-szigetek"
+msgid "El Salvador"
+msgstr "Salvador"
 
-msgid "South-Central Asia"
-msgstr "Délközép-Ázsia"
+msgid "Sint Maarten"
+msgstr "Sint Maarten"
 
-msgid "Algeria"
-msgstr "Algéria"
+msgid "Syria"
+msgstr "Szíria"
 
-msgid "United States"
-msgstr "Amerikai Egyesült Államok"
+msgid "Swaziland"
+msgstr "Eswatini"
 
-msgid "Uruguay"
-msgstr "Uruguay"
+msgid "Tristan da Cunha"
+msgstr "Tristan da Cunha"
 
-msgid "Mayotte"
-msgstr "Mayotte"
+msgid "Turks & Caicos Islands"
+msgstr "Turks- és Caicos-szigetek"
 
-msgid "U.S. Minor Outlying Islands"
-msgstr "Amerikai Egyesült Államok lakatlan külbirtokai"
-
-msgid "Lebanon"
-msgstr "Libanon"
-
-msgid "Saint Lucia"
-msgstr "Saint Lucia"
-
-msgid "Laos"
-msgstr "Laosz"
-
-msgid "Tuvalu"
-msgstr "Tuvalu"
-
-msgid "Taiwan"
-msgstr "Tajvan"
-
-msgid "Trinidad and Tobago"
-msgstr "Trinidad és Tobago"
-
-msgid "Turkey"
-msgstr "Törökország"
-
-msgid "Sri Lanka"
-msgstr "Srí Lanka"
-
-msgid "Liechtenstein"
-msgstr "Liechtenstein"
-
-msgid "Cook Islands"
-msgstr "Cook-szigetek"
-
-msgid "Tonga"
-msgstr "Tonga"
-
-msgid "Lithuania"
-msgstr "Litvánia"
-
-msgid "Luxembourg"
-msgstr "Luxemburg"
-
-msgid "Liberia"
-msgstr "Libéria"
-
-msgid "Lesotho"
-msgstr "Lesotho"
-
-msgid "Thailand"
-msgstr "Thaiföld"
+msgid "Chad"
+msgstr "Csád"
 
 msgid "French Southern Territories"
 msgstr "Francia Déli Területek"
@@ -822,117 +792,114 @@ msgstr "Francia Déli Területek"
 msgid "Togo"
 msgstr "Togo"
 
-msgid "Chad"
-msgstr "Csád"
+msgid "Thailand"
+msgstr "Thaiföld"
 
-msgid "Turks and Caicos Islands"
-msgstr "Turks- és Caicos-szigetek"
+msgid "Tajikistan"
+msgstr "Tádzsikisztán"
 
-msgid "Libya"
-msgstr "Líbia"
+msgid "Tokelau"
+msgstr "Tokelau"
 
-msgid "Czechoslovakia"
-msgstr ""
+msgid "East Timor"
+msgstr "Timor-Leste"
 
-msgid "Ascension Island"
-msgstr "Ascension-sziget"
+msgid "Turkmenistan"
+msgstr "Türkmenisztán"
 
-msgid "Western Asia"
-msgstr "Nyugat-Ázsia"
+msgid "Tunisia"
+msgstr "Tunézia"
 
-msgid "United Arab Emirates"
-msgstr "Egyesült Arab Emirátus"
+msgid "Tonga"
+msgstr "Tonga"
 
-msgid "Andorra"
-msgstr "Andorra"
+msgid "Turkey"
+msgstr "Törökország"
 
-msgid "Antigua and Barbuda"
-msgstr "Antigua és Barbuda"
+msgid "Trinidad & Tobago"
+msgstr "Trinidad és Tobago"
 
-msgid "Afghanistan"
-msgstr "Afganisztán"
+msgid "Tuvalu"
+msgstr "Tuvalu"
 
-msgid "Anguilla"
-msgstr "Anguilla"
+msgid "Taiwan"
+msgstr "Tajvan"
+
+msgid "Tanzania"
+msgstr "Tanzánia"
+
+msgid "Ukraine"
+msgstr "Ukrajna"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "U.S. Outlying Islands"
+msgstr "Az USA lakatlan külbirtokai"
+
+msgid "UN"
+msgstr "ENSZ"
+
+msgid "US"
+msgstr "USA"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Uzbekistan"
+msgstr "Üzbegisztán"
+
+msgid "Vatican City"
+msgstr "Vatikán"
+
+msgid "St. Vincent & Grenadines"
+msgstr "Saint Vincent és a Grenadine-szigetek"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "British Virgin Islands"
+msgstr "Brit Virgin-szigetek"
 
 msgid "U.S. Virgin Islands"
 msgstr "Amerikai Virgin-szigetek"
 
-msgid "Iceland"
-msgstr "Izland"
+msgid "Vietnam"
+msgstr "Vietnám"
 
-msgid "Iran"
-msgstr "Irán"
+msgid "Vanuatu"
+msgstr "Vanuatu"
 
-msgid "Armenia"
-msgstr "Örményország"
+msgid "Wallis & Futuna"
+msgstr "Wallis és Futuna"
 
-msgid "Albania"
-msgstr "Albánia"
+msgid "Samoa"
+msgstr "Szamoa"
 
-msgid "Angola"
-msgstr "Angola"
+msgid "Pseudo-Accents"
+msgstr "Pszeudo-nyelvjárások"
 
-msgid "Netherlands Antilles"
-msgstr "Holland Antillák"
+msgid "Pseudo-Bidi"
+msgstr "Pszeudo-kétirányú"
 
-msgid "North America"
-msgstr "Észak-Amerika"
+msgid "Kosovo"
+msgstr "Koszovó"
 
-msgid "Africa"
-msgstr "Afrika"
+msgid "Yemen"
+msgstr "Jemen"
 
-msgid "World"
-msgstr "Világ"
+msgid "Mayotte"
+msgstr "Mayotte"
 
-msgid "Argentina"
-msgstr "Argentína"
+msgid "South Africa"
+msgstr "Dél-afrikai Köztársaság"
 
-msgid "Australia"
-msgstr "Ausztrália"
+msgid "Zambia"
+msgstr "Zambia"
 
-msgid "Austria"
-msgstr "Ausztria"
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
 
-msgid "South America"
-msgstr "Dél-Amerika"
-
-msgid "India"
-msgstr "India"
-
-msgid "Åland Islands"
-msgstr "Aland-szigetek"
-
-msgid "Oceania"
-msgstr "Óceánia"
-
-msgid "Azerbaijan"
-msgstr "Azerbajdzsán"
-
-msgid "Ireland"
-msgstr "Írország"
-
-msgid "Indonesia"
-msgstr "Indonézia"
-
-msgid "Jordan"
-msgstr "Jordánia"
-
-msgid "Serbia"
-msgstr "Szerbia"
-
-msgid "Qatar"
-msgstr "Katar"
-
-msgid "Midway Islands"
-msgstr ""
-
-msgid "Denmark"
-msgstr "Dánia"
-
-msgid "Mozambique"
-msgstr "Mozambik"
-
-msgid "Outlying Oceania"
-msgstr "Külső-Óceánia"
+msgid "Unknown Region"
+msgstr "Ismeretlen körzet"
 

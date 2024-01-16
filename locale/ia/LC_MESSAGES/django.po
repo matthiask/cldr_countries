@@ -1,0 +1,905 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-31 18:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "world"
+msgstr "Mundo"
+
+msgid "Africa"
+msgstr "Africa"
+
+msgid "North America"
+msgstr "America del Nord"
+
+msgid "South America"
+msgstr "America del Sud"
+
+msgid "Oceania"
+msgstr "Oceania"
+
+msgid "Western Africa"
+msgstr "Africa occidental"
+
+msgid "Central America"
+msgstr "America central"
+
+msgid "Eastern Africa"
+msgstr "Africa oriental"
+
+msgid "Northern Africa"
+msgstr "Africa septentrional"
+
+msgid "Middle Africa"
+msgstr "Africa central"
+
+msgid "Southern Africa"
+msgstr "Africa meridional"
+
+msgid "Americas"
+msgstr "Americas"
+
+msgid "Northern America"
+msgstr "America septentrional"
+
+msgid "Caribbean"
+msgstr "Caribes"
+
+msgid "Eastern Asia"
+msgstr "Asia oriental"
+
+msgid "Southern Asia"
+msgstr "Asia meridional"
+
+msgid "Southeast Asia"
+msgstr "Asia del sud-est"
+
+msgid "Southern Europe"
+msgstr "Europa meridional"
+
+msgid "Australasia"
+msgstr "Australasia"
+
+msgid "Melanesia"
+msgstr "Melanesia"
+
+msgid "Micronesian Region"
+msgstr "Region micronesian"
+
+msgid "Polynesia"
+msgstr "Polynesia"
+
+msgid "Asia"
+msgstr "Asia"
+
+msgid "Central Asia"
+msgstr "Asia central"
+
+msgid "Western Asia"
+msgstr "Asia occidental"
+
+msgid "Europe"
+msgstr "Europa"
+
+msgid "Eastern Europe"
+msgstr "Europa oriental"
+
+msgid "Northern Europe"
+msgstr "Europa septentrional"
+
+msgid "Western Europe"
+msgstr "Europa occidental"
+
+msgid "Sub-Saharan Africa"
+msgstr "Africa subsaharian"
+
+msgid "Latin America"
+msgstr "America latin"
+
+msgid "Ascension Island"
+msgstr "Insula del Ascension"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "United Arab Emirates"
+msgstr "Emiratos Arabe Unite"
+
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgid "Antigua & Barbuda"
+msgstr "Antigua e Barbuda"
+
+msgid "Anguilla"
+msgstr "Anguilla"
+
+msgid "Albania"
+msgstr "Albania"
+
+msgid "Armenia"
+msgstr "Armenia"
+
+msgid "Angola"
+msgstr "Angola"
+
+msgid "Antarctica"
+msgstr "Antarctica"
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "American Samoa"
+msgstr "Samoa american"
+
+msgid "Austria"
+msgstr "Austria"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Aruba"
+msgstr "Aruba"
+
+msgid "Åland Islands"
+msgstr "Insulas Åland"
+
+msgid "Azerbaijan"
+msgstr "Azerbaidzhan"
+
+msgid "Bosnia"
+msgstr "Bosnia e Herzegovina"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+msgid "Belgium"
+msgstr "Belgica"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Bahrain"
+msgstr "Bahrain"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "St. Barthélemy"
+msgstr "Sancte Bartholomeo"
+
+msgid "Bermuda"
+msgstr "Bermuda"
+
+msgid "Brunei"
+msgstr "Brunei"
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Caribbean Netherlands"
+msgstr "Paises Basse caribe"
+
+msgid "Brazil"
+msgstr "Brasil"
+
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgid "Bouvet Island"
+msgstr "Insula de Bouvet"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Belarus"
+msgstr "Bielorussia"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "Insulas Cocos (Keeling)"
+
+msgid "Congo (DRC)"
+msgstr "Congo (RDC)"
+
+msgid "Central African Republic"
+msgstr "Republica African Central"
+
+msgid "Congo (Republic)"
+msgstr "Congo (Republica)"
+
+msgid "Switzerland"
+msgstr "Suissa"
+
+msgid "Ivory Coast"
+msgstr "Republica de Côte d’Ivoire"
+
+msgid "Cook Islands"
+msgstr "Insulas Cook"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Cameroon"
+msgstr "Camerun"
+
+msgid "China"
+msgstr "China"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Clipperton Island"
+msgstr "Insula Clipperton"
+
+msgid "Sark"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cabo Verde"
+msgstr "Capo Verde"
+
+msgid "Curaçao"
+msgstr "Curaçao"
+
+msgid "Christmas Island"
+msgstr "Insula de Natal"
+
+msgid "Cyprus"
+msgstr "Cypro"
+
+msgid "Czech Republic"
+msgstr "Republica Chec"
+
+msgid "Germany"
+msgstr "Germania"
+
+msgid "Diego Garcia"
+msgstr "Diego Garcia"
+
+msgid "Djibouti"
+msgstr "Djibuti"
+
+msgid "Denmark"
+msgstr "Danmark"
+
+msgid "Dominica"
+msgstr "Dominica"
+
+msgid "Dominican Republic"
+msgstr "Republica Dominican"
+
+msgid "Algeria"
+msgstr "Algeria"
+
+msgid "Ceuta & Melilla"
+msgstr "Ceuta e Melilla"
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Estonia"
+msgstr "Estonia"
+
+msgid "Egypt"
+msgstr "Egypto"
+
+msgid "Western Sahara"
+msgstr "Sahara occidental"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "Spain"
+msgstr "Espania"
+
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+msgid "European Union"
+msgstr "Union Europee"
+
+msgid "Eurozone"
+msgstr "Zona euro"
+
+msgid "Finland"
+msgstr "Finlandia"
+
+msgid "Fiji"
+msgstr "Fiji"
+
+msgid "Falkland Islands (Islas Malvinas)"
+msgstr "Insulas Falkland (Malvinas)"
+
+msgid "Micronesia"
+msgstr "Micronesia"
+
+msgid "Faroe Islands"
+msgstr "Insulas Feroe"
+
+msgid "France"
+msgstr "Francia"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "UK"
+msgstr "RU"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "French Guiana"
+msgstr "Guyana francese"
+
+msgid "Guernsey"
+msgstr "Guernsey"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgid "Greenland"
+msgstr "Groenlandia"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+msgid "Equatorial Guinea"
+msgstr "Guinea equatorial"
+
+msgid "Greece"
+msgstr "Grecia"
+
+msgid "South Georgia & South Sandwich Islands"
+msgstr "Georgia del Sud e Insulas Sandwich Austral"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "Hong Kong"
+msgstr "Hongkong"
+
+msgid "Heard & McDonald Islands"
+msgstr "Insulas Heard e McDonald"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Croatia"
+msgstr "Croatia"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Hungary"
+msgstr "Hungaria"
+
+msgid "Canary Islands"
+msgstr "Insulas Canari"
+
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgid "Ireland"
+msgstr "Irlanda"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Isle of Man"
+msgstr "Insula de Man"
+
+msgid "India"
+msgstr "India"
+
+msgid "Chagos Archipelago"
+msgstr "Archipelago de Chagos"
+
+msgid "Iraq"
+msgstr "Irak"
+
+msgid "Iran"
+msgstr "Iran"
+
+msgid "Iceland"
+msgstr "Islanda"
+
+msgid "Italy"
+msgstr "Italia"
+
+msgid "Jersey"
+msgstr "Jersey"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Jordan"
+msgstr "Jordania"
+
+msgid "Japan"
+msgstr "Japon"
+
+msgid "Kenya"
+msgstr "Kenya"
+
+msgid "Kyrgyzstan"
+msgstr "Kirghizistan"
+
+msgid "Cambodia"
+msgstr "Cambodgia"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "Comoros"
+msgstr "Comoros"
+
+msgid "St. Kitts & Nevis"
+msgstr "Sancte Christophoro e Nevis"
+
+msgid "North Korea"
+msgstr "Corea del Nord"
+
+msgid "South Korea"
+msgstr "Corea del Sud"
+
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgid "Cayman Islands"
+msgstr "Insulas de Caiman"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Laos"
+msgstr "Laos"
+
+msgid "Lebanon"
+msgstr "Libano"
+
+msgid "St. Lucia"
+msgstr "Sancte Lucia"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "Liberia"
+msgstr "Liberia"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Lithuania"
+msgstr "Lituania"
+
+msgid "Luxembourg"
+msgstr "Luxemburg"
+
+msgid "Latvia"
+msgstr "Lettonia"
+
+msgid "Libya"
+msgstr "Libya"
+
+msgid "Morocco"
+msgstr "Marocco"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Moldova"
+msgstr "Moldavia"
+
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgid "St. Martin"
+msgstr "Sancte Martino francese"
+
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgid "Marshall Islands"
+msgstr "Insulas Marshall"
+
+msgid "North Macedonia"
+msgstr "Macedonia del Nord"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Myanmar"
+msgstr "Myanmar (Birmania)"
+
+msgid "Mongolia"
+msgstr "Mongolia"
+
+msgid "Macao"
+msgstr "Macao"
+
+msgid "Northern Mariana Islands"
+msgstr "Insulas Marianna del Nord"
+
+msgid "Martinique"
+msgstr "Martinica"
+
+msgid "Mauritania"
+msgstr "Mauritania"
+
+msgid "Montserrat"
+msgstr "Montserrat"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Mauritius"
+msgstr "Mauritio"
+
+msgid "Maldives"
+msgstr "Maldivas"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Mexico"
+msgstr "Mexico"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Namibia"
+msgstr "Namibia"
+
+msgid "New Caledonia"
+msgstr "Nove Caledonia"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Norfolk Island"
+msgstr "Insula Norfolk"
+
+msgid "Nigeria"
+msgstr "Nigeria"
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "Netherlands"
+msgstr "Nederlandia"
+
+msgid "Norway"
+msgstr "Norvegia"
+
+msgid "Nepal"
+msgstr "Nepal"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Niue"
+msgstr "Niue"
+
+msgid "Aotearoa New Zealand"
+msgstr "Aotearoa/Nove Zelanda"
+
+msgid "Oman"
+msgstr "Oman"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Peru"
+msgstr "Peru"
+
+msgid "French Polynesia"
+msgstr "Polynesia francese"
+
+msgid "Papua New Guinea"
+msgstr "Papua Nove Guinea"
+
+msgid "Philippines"
+msgstr "Philippinas"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Poland"
+msgstr "Polonia"
+
+msgid "St. Pierre & Miquelon"
+msgstr "St. Pierre e Miquelon"
+
+msgid "Pitcairn Islands"
+msgstr "Insulas Pitcairn"
+
+msgid "Puerto Rico"
+msgstr "Porto Rico"
+
+msgid "Palestine"
+msgstr "Palestina"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Qatar"
+msgstr "Qatar"
+
+msgid "Outlying Oceania"
+msgstr "Oceania remote"
+
+msgid "Réunion"
+msgstr "Reunion"
+
+msgid "Romania"
+msgstr "Romania"
+
+msgid "Serbia"
+msgstr "Serbia"
+
+msgid "Russia"
+msgstr "Russia"
+
+msgid "Rwanda"
+msgstr "Ruanda"
+
+msgid "Saudi Arabia"
+msgstr "Arabia Saudita"
+
+msgid "Solomon Islands"
+msgstr "Insulas Solomon"
+
+msgid "Seychelles"
+msgstr "Seychelles"
+
+msgid "Sudan"
+msgstr "Sudan"
+
+msgid "Sweden"
+msgstr "Svedia"
+
+msgid "Singapore"
+msgstr "Singapur"
+
+msgid "St. Helena"
+msgstr "Sancte Helena"
+
+msgid "Slovenia"
+msgstr "Slovenia"
+
+msgid "Svalbard & Jan Mayen"
+msgstr "Svalbard e Jan Mayen"
+
+msgid "Slovakia"
+msgstr "Slovachia"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Senegal"
+msgstr "Senegal"
+
+msgid "Somalia"
+msgstr "Somalia"
+
+msgid "Suriname"
+msgstr "Suriname"
+
+msgid "South Sudan"
+msgstr "Sudan del Sud"
+
+msgid "São Tomé & Príncipe"
+msgstr "São Tomé e Príncipe"
+
+msgid "El Salvador"
+msgstr "El Salvador"
+
+msgid "Sint Maarten"
+msgstr "Sancte Martino nederlandese"
+
+msgid "Syria"
+msgstr "Syria"
+
+msgid "Swaziland"
+msgstr "Swazilandia"
+
+msgid "Tristan da Cunha"
+msgstr "Tristan da Cunha"
+
+msgid "Turks & Caicos Islands"
+msgstr "Insulas Turcos e Caicos"
+
+msgid "Chad"
+msgstr "Tchad"
+
+msgid "French Southern Territories"
+msgstr "Territorios meridional francese"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Thailand"
+msgstr "Thailandia"
+
+msgid "Tajikistan"
+msgstr "Tadzhikistan"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "East Timor"
+msgstr "Timor del Est"
+
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgid "Tunisia"
+msgstr "Tunisia"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Turkey"
+msgstr "Turchia"
+
+msgid "Trinidad & Tobago"
+msgstr "Trinidad e Tobago"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Tanzania"
+msgstr "Tanzania"
+
+msgid "Ukraine"
+msgstr "Ukraina"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "U.S. Outlying Islands"
+msgstr "Insulas peripheric del SUA"
+
+msgid "UN"
+msgstr "Nationes Unite"
+
+msgid "US"
+msgstr "SUA"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+msgid "Vatican City"
+msgstr "Citate del Vaticano"
+
+msgid "St. Vincent & Grenadines"
+msgstr "Sancte Vincente e le Grenadinas"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "British Virgin Islands"
+msgstr "Insulas Virgine britannic"
+
+msgid "U.S. Virgin Islands"
+msgstr "Insulas Virgine statounitese"
+
+msgid "Vietnam"
+msgstr "Vietnam"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Wallis & Futuna"
+msgstr "Wallis e Futuna"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "Pseudo-Accents"
+msgstr "Pseudo-accentos"
+
+msgid "Pseudo-Bidi"
+msgstr "Pseudo-bidi"
+
+msgid "Kosovo"
+msgstr "Kosovo"
+
+msgid "Yemen"
+msgstr "Yemen"
+
+msgid "Mayotte"
+msgstr "Mayotte"
+
+msgid "South Africa"
+msgstr "Africa del Sud"
+
+msgid "Zambia"
+msgstr "Zambia"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "Unknown Region"
+msgstr "Region incognite"
+

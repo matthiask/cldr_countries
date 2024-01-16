@@ -18,71 +18,32 @@ msgstr ""
 "Language: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-msgid "Bangladesh"
-msgstr "Băng-la-đét"
+msgid "world"
+msgstr "Thế giới"
 
-msgid "Belgium"
-msgstr "Bỉ"
+msgid "Africa"
+msgstr "Châu Phi"
 
-msgid "Burkina Faso"
-msgstr "Buốc-ki-na Pha-xô"
+msgid "North America"
+msgstr "Bắc Mỹ"
 
-msgid "Bulgaria"
-msgstr "Bun-ga-ri"
+msgid "South America"
+msgstr "Nam Mỹ"
 
-msgid "Venezuela"
-msgstr "Vê-nê-zu-ê-la"
-
-msgid "Bosnia and Herzegovina"
-msgstr "Bô-xni-a Héc-xê-gô-vi-na"
-
-msgid "Barbados"
-msgstr "Bác-ba-đốt"
-
-msgid "Wallis and Futuna"
-msgstr "Wallis và Futuna"
-
-msgid "Saint Barthélemy"
-msgstr "BL"
-
-msgid "Bermuda"
-msgstr ""
-
-msgid "Brunei"
-msgstr "Bru-nây"
-
-msgid "Bolivia"
-msgstr "Bô-li-vi-a"
-
-msgid "Bahrain"
-msgstr "Ba-ren"
-
-msgid "Burundi"
-msgstr "Bu-run-đi"
-
-msgid "Benin"
-msgstr "Bê-nanh"
-
-msgid "Bhutan"
-msgstr "Bhutan"
+msgid "Oceania"
+msgstr "Châu Đại Dương"
 
 msgid "Western Africa"
 msgstr "Tây Phi"
 
-msgid "Bouvet Island"
-msgstr "Đảo Bouvet"
-
-msgid "Botswana"
-msgstr "Bốt-xoa-na"
+msgid "Central America"
+msgstr "Trung Mỹ"
 
 msgid "Eastern Africa"
-msgstr "Đông Phí"
+msgstr "Đông Phi"
 
 msgid "Northern Africa"
 msgstr "Bắc Phi"
-
-msgid "Brazil"
-msgstr "Bra-xin"
 
 msgid "Middle Africa"
 msgstr "Trung Phi"
@@ -93,443 +54,581 @@ msgstr "Miền Nam Châu Phi"
 msgid "Americas"
 msgstr "Châu Mỹ"
 
-msgid "Wake Island"
-msgstr ""
-
-msgid "Belarus"
-msgstr "Bê-la-rút"
-
-msgid "Belize"
-msgstr "Bê-li-xê"
-
-msgid "Latvia"
-msgstr "Lát-vi-a"
-
-msgid "Rwanda"
-msgstr "Ru-an-đa"
-
-msgid "Pacific Islands Trust Territory"
-msgstr ""
-
-msgid "East Timor"
-msgstr "Đông Ti-mo"
-
-msgid "Johnston Island"
-msgstr ""
-
-msgid "Turkmenistan"
-msgstr "Tuốc-mê-ni-xtan"
-
-msgid "Oman"
-msgstr "Ô-man"
-
-msgid "Tajikistan"
-msgstr "Tát-gi-ki-xtan"
-
-msgid "Romania"
-msgstr "Ru-ma-ni"
-
-msgid "Tokelau"
-msgstr "Tokelau"
-
-msgid "Guinea-Bissau"
-msgstr "Ghi-nê Bít-xao"
-
-msgid "Guam"
-msgstr "Đảo Gu-am"
-
-msgid "Guatemala"
-msgstr "Goa-tê-ma-la"
-
-msgid "South Georgia and the South Sandwich Islands"
-msgstr "Quần đảo Nam Georgia và Nam Sandwich"
-
-msgid "Greece"
-msgstr "Hy Lạp"
-
-msgid "Equatorial Guinea"
-msgstr "Ghi-nê Xích-đạo"
-
-msgid "Guadeloupe"
-msgstr ""
-
-msgid "Japan"
-msgstr "Nhật Bản"
-
-msgid "Kiribati"
-msgstr "Ki-ri-ba-ti"
-
-msgid "Guyana"
-msgstr "Guy-a-na"
-
-msgid "Guernsey"
-msgstr "Guernsey"
-
-msgid "French Guiana"
-msgstr "Quiana thuộc Pháp"
-
-msgid "Georgia"
-msgstr "Gru-di-a"
-
-msgid "Grenada"
-msgstr "Grê-na-đa"
-
 msgid "Northern America"
 msgstr "Miền Bắc Châu Mỹ"
-
-msgid "United Kingdom"
-msgstr "Vương quốc Anh"
-
-msgid "Gabon"
-msgstr "Ga-bông"
-
-msgid "El Salvador"
-msgstr "En-san-va-đo"
-
-msgid "Guinea"
-msgstr "Ghi-nê"
-
-msgid "Gambia"
-msgstr "Găm-bi-a"
-
-msgid "Greenland"
-msgstr "Băng Đảo"
 
 msgid "Caribbean"
 msgstr "Ca-ri-bê"
 
-msgid "Gibraltar"
-msgstr ""
-
-msgid "Ghana"
-msgstr "Gha-na"
-
-msgid "Jersey"
-msgstr "Jersey"
-
-msgid "Tunisia"
-msgstr "Tuy-ni-di"
-
-msgid "Jamaica"
-msgstr "Ha-mai-ca"
-
-msgid "Svalbard and Jan Mayen"
-msgstr "Svalbard và Jan Mayen"
-
-msgid "Central America"
-msgstr "Trung Mỹ"
-
-msgid "Samoa"
-msgstr "Xa-moa"
-
-msgid "Tristan da Cunha"
-msgstr "Tristan da Cunha"
-
-msgid "Latin America and the Caribbean"
-msgstr "Châu Mỹ La-tinh và Ca-ri-be"
-
-msgid "British Antarctic Territory"
-msgstr ""
-
-msgid "Vatican City"
-msgstr "Va-ti-căng"
-
-msgid "Croatia"
-msgstr "Crô-a-ti-a"
-
-msgid "Bahamas"
-msgstr "Ba-ha-ma"
-
-msgid "Haiti"
-msgstr "Ha-i-ti"
-
-msgid "Hungary"
-msgstr "Hung-ga-ri"
-
-msgid "Hong Kong"
-msgstr "Hồng Kông"
-
-msgid "Southern Europe"
-msgstr "Nam Âu"
-
-msgid "Honduras"
-msgstr "Hôn-đu-rát"
-
-msgid "Union of Soviet Socialist Republics"
-msgstr ""
-
-msgid "Finland"
-msgstr "Phần Lan"
-
-msgid "Asia"
-msgstr "Châu Á"
-
 msgid "Eastern Asia"
 msgstr "Đông Á"
-
-msgid "Ukraine"
-msgstr "U-crai-na"
 
 msgid "Southern Asia"
 msgstr "Nam Á"
 
-msgid "South-Eastern Asia"
+msgid "Southeast Asia"
 msgstr "Đông Nam Á"
 
-msgid "Puerto Rico"
-msgstr ""
+msgid "Southern Europe"
+msgstr "Nam Âu"
 
-msgid "Palestinian Territories"
-msgstr "Lãnh thổ Palestin"
+msgid "Australasia"
+msgstr "Australasia"
 
-msgid "Channel Islands"
-msgstr ""
+msgid "Melanesia"
+msgstr "Melanesia"
 
-msgid "Falkland Islands [Islas Malvinas]"
-msgstr "Quần Đảo Falkland"
+msgid "Micronesian Region"
+msgstr "Vùng Micronesia"
 
-msgid "British Indian Ocean Territory"
-msgstr "Thuộc địa Anh tại Ấn Độ Dương"
+msgid "Polynesia"
+msgstr "Polynesia"
 
-msgid "Palau"
-msgstr ""
+msgid "Asia"
+msgstr "Châu Á"
 
-msgid "Portugal"
-msgstr "Bồ Đào Nha"
+msgid "Central Asia"
+msgstr "Trung Á"
 
-msgid "U.S. Miscellaneous Pacific Islands"
-msgstr ""
+msgid "Western Asia"
+msgstr "Tây Á"
 
-msgid "Panama Canal Zone"
-msgstr ""
+msgid "Europe"
+msgstr "Châu Âu"
 
-msgid "Moldova"
-msgstr "Môn-đô-va"
+msgid "Eastern Europe"
+msgstr "Đông Âu"
 
-msgid "Micronesia"
-msgstr "Mi-crô-nê-xi-a"
+msgid "Northern Europe"
+msgstr "Bắc Âu"
 
-msgid "Iraq"
-msgstr "I-rắc"
+msgid "Western Europe"
+msgstr "Tây Âu"
 
-msgid "Panama"
-msgstr "Pa-na-ma"
+msgid "Sub-Saharan Africa"
+msgstr "Châu Phi hạ Sahara"
 
-msgid "French Polynesia"
-msgstr "Polynesia thuộc Pháp"
+msgid "Latin America"
+msgstr "Châu Mỹ La-tinh"
 
-msgid "Papua New Guinea"
-msgstr "Pa-pu-a Niu Ghi-nê"
+msgid "Ascension Island"
+msgstr "Đảo Ascension"
 
-msgid "Peru"
-msgstr "Pê-ru"
+msgid "Andorra"
+msgstr "Andorra"
 
-msgid "Pakistan"
-msgstr "Pa-ki-xtan"
+msgid "United Arab Emirates"
+msgstr "Các Tiểu Vương quốc Ả Rập Thống nhất"
 
-msgid "Philippines"
-msgstr "Phi-lip-pin"
+msgid "Afghanistan"
+msgstr "Afghanistan"
 
-msgid "Faroe Islands"
-msgstr "Quần Đảo Faroe"
+msgid "Antigua & Barbuda"
+msgstr "Antigua và Barbuda"
 
-msgid "Pitcairn Islands"
-msgstr ""
+msgid "Anguilla"
+msgstr "Anguilla"
 
-msgid "Poland"
-msgstr "Ba Lan"
+msgid "Albania"
+msgstr "Albania"
 
-msgid "Saint Pierre and Miquelon"
-msgstr "Saint Pierre và Miquelon"
+msgid "Armenia"
+msgstr "Armenia"
 
-msgid "Zambia"
-msgstr "Dăm-bi-a"
-
-msgid "Western Sahara"
-msgstr "Tây Sahara"
-
-msgid "Russia"
-msgstr "Nga"
-
-msgid "Estonia"
-msgstr "E-xtô-ni-a"
-
-msgid "Egypt"
-msgstr "Ai Cập"
-
-msgid "Ceuta and Melilla"
-msgstr "Ceuta và Melilla"
-
-msgid "South Africa"
-msgstr "Nam Phi"
-
-msgid "Ecuador"
-msgstr "Ê-cu-a-đo"
-
-msgid "Italy"
-msgstr "Ý"
-
-msgid "Vietnam"
-msgstr "Việt Nam"
-
-msgid "Unknown or Invalid Region"
-msgstr "Vùng Chưa biết hoặc không Hợp lệ"
-
-msgid "Solomon Islands"
-msgstr "Quần đảo Xô-lô-mông"
-
-msgid "European Union"
-msgstr "Liên Minh Châu Âu"
-
-msgid "Ethiopia"
-msgstr "Ê-ti-ô-pi-a"
-
-msgid "Somalia"
-msgstr "Xô-ma-li"
-
-msgid "Zimbabwe"
-msgstr "Dim-ba-bu-ê"
-
-msgid "Saudi Arabia"
-msgstr "A-rập Xê-út"
-
-msgid "Spain"
-msgstr "Tây Ban Nha"
-
-msgid "Eritrea"
-msgstr "Ê-ri-tơ-rê-a"
-
-msgid "Montenegro"
-msgstr "Montenegro"
+msgid "Angola"
+msgstr "Angola"
 
 msgid "Antarctica"
 msgstr "Nam Cực"
 
-msgid "Madagascar"
-msgstr "Ma-đa-gát-xca"
+msgid "Argentina"
+msgstr "Argentina"
 
-msgid "Saint Martin"
-msgstr "MF"
+msgid "American Samoa"
+msgstr "Samoa thuộc Mỹ"
+
+msgid "Austria"
+msgstr "Áo"
+
+msgid "Australia"
+msgstr "Australia"
+
+msgid "Aruba"
+msgstr "Aruba"
+
+msgid "Åland Islands"
+msgstr "Quần đảo Åland"
+
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+msgid "Bosnia"
+msgstr "Bosnia và Herzegovina"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+msgid "Belgium"
+msgstr "Bỉ"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Bulgaria"
+msgstr "Bulgaria"
+
+msgid "Bahrain"
+msgstr "Bahrain"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "Benin"
+msgstr "Benin"
+
+msgid "St. Barthélemy"
+msgstr "St. Barthélemy"
+
+msgid "Bermuda"
+msgstr "Bermuda"
+
+msgid "Brunei"
+msgstr "Brunei"
+
+msgid "Bolivia"
+msgstr "Bolivia"
+
+msgid "Caribbean Netherlands"
+msgstr "Ca-ri-bê Hà Lan"
+
+msgid "Brazil"
+msgstr "Brazil"
+
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgid "Bouvet Island"
+msgstr "Đảo Bouvet"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Belarus"
+msgstr "Belarus"
+
+msgid "Belize"
+msgstr "Belize"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "Quần đảo Cocos (Keeling)"
+
+msgid "Congo (DRC)"
+msgstr "Cộng hòa Dân chủ Congo"
+
+msgid "Central African Republic"
+msgstr "Cộng hòa Trung Phi"
+
+msgid "Congo (Republic)"
+msgstr "Cộng hòa Congo"
+
+msgid "Switzerland"
+msgstr "Thụy Sĩ"
+
+msgid "Ivory Coast"
+msgstr "Bờ Biển Ngà"
+
+msgid "Cook Islands"
+msgstr "Quần đảo Cook"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Cameroon"
+msgstr "Cameroon"
+
+msgid "China"
+msgstr "Trung Quốc"
+
+msgid "Colombia"
+msgstr "Colombia"
+
+msgid "Clipperton Island"
+msgstr "Đảo Clipperton"
+
+msgid "Sark"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cabo Verde"
+msgstr "Cape Verde"
+
+msgid "Curaçao"
+msgstr "Curaçao"
+
+msgid "Christmas Island"
+msgstr "Đảo Giáng Sinh"
+
+msgid "Cyprus"
+msgstr "Síp"
+
+msgid "Czech Republic"
+msgstr "Cộng hòa Séc"
+
+msgid "Germany"
+msgstr "Đức"
+
+msgid "Diego Garcia"
+msgstr "Diego Garcia"
+
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgid "Denmark"
+msgstr "Đan Mạch"
+
+msgid "Dominica"
+msgstr "Dominica"
+
+msgid "Dominican Republic"
+msgstr "Cộng hòa Dominica"
+
+msgid "Algeria"
+msgstr "Algeria"
+
+msgid "Ceuta & Melilla"
+msgstr "Ceuta và Melilla"
+
+msgid "Ecuador"
+msgstr "Ecuador"
+
+msgid "Estonia"
+msgstr "Estonia"
+
+msgid "Egypt"
+msgstr "Ai Cập"
+
+msgid "Western Sahara"
+msgstr "Tây Sahara"
+
+msgid "Eritrea"
+msgstr "Eritrea"
+
+msgid "Spain"
+msgstr "Tây Ban Nha"
+
+msgid "Ethiopia"
+msgstr "Ethiopia"
+
+msgid "European Union"
+msgstr "Liên Minh Châu Âu"
+
+msgid "Eurozone"
+msgstr "Khu vực đồng Euro"
+
+msgid "Finland"
+msgstr "Phần Lan"
+
+msgid "Fiji"
+msgstr "Fiji"
+
+msgid "Falkland Islands (Islas Malvinas)"
+msgstr "Quần đảo Falkland (Islas Malvinas)"
+
+msgid "Micronesia"
+msgstr "Micronesia"
+
+msgid "Faroe Islands"
+msgstr "Quần đảo Faroe"
+
+msgid "France"
+msgstr "Pháp"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "UK"
+msgstr "Vương quốc Anh"
+
+msgid "Grenada"
+msgstr "Grenada"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "French Guiana"
+msgstr "Guiana thuộc Pháp"
+
+msgid "Guernsey"
+msgstr "Guernsey"
+
+msgid "Ghana"
+msgstr "Ghana"
+
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgid "Greenland"
+msgstr "Greenland"
+
+msgid "Gambia"
+msgstr "Gambia"
+
+msgid "Guinea"
+msgstr "Guinea"
+
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+msgid "Equatorial Guinea"
+msgstr "Guinea Xích Đạo"
+
+msgid "Greece"
+msgstr "Hy Lạp"
+
+msgid "South Georgia & South Sandwich Islands"
+msgstr "Nam Georgia & Quần đảo Nam Sandwich"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guinea-Bissau"
+msgstr "Guinea-Bissau"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "Hong Kong"
+msgstr "Hồng Kông"
+
+msgid "Heard & McDonald Islands"
+msgstr "Quần đảo Heard và McDonald"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Croatia"
+msgstr "Croatia"
+
+msgid "Haiti"
+msgstr "Haiti"
+
+msgid "Hungary"
+msgstr "Hungary"
+
+msgid "Canary Islands"
+msgstr "Quần đảo Canary"
+
+msgid "Indonesia"
+msgstr "Indonesia"
+
+msgid "Ireland"
+msgstr "Ireland"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Isle of Man"
+msgstr "Đảo Man"
+
+msgid "India"
+msgstr "Ấn Độ"
+
+msgid "Chagos Archipelago"
+msgstr "Quần đảo Chagos"
+
+msgid "Iraq"
+msgstr "Iraq"
+
+msgid "Iran"
+msgstr "Iran"
+
+msgid "Iceland"
+msgstr "Iceland"
+
+msgid "Italy"
+msgstr "Italy"
+
+msgid "Jersey"
+msgstr "Jersey"
+
+msgid "Jamaica"
+msgstr "Jamaica"
+
+msgid "Jordan"
+msgstr "Jordan"
+
+msgid "Japan"
+msgstr "Nhật Bản"
+
+msgid "Kenya"
+msgstr "Kenya"
+
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+msgid "Cambodia"
+msgstr "Campuchia"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "Comoros"
+msgstr "Comoros"
+
+msgid "St. Kitts & Nevis"
+msgstr "St. Kitts và Nevis"
+
+msgid "North Korea"
+msgstr "Triều Tiên"
+
+msgid "South Korea"
+msgstr "Hàn Quốc"
+
+msgid "Kuwait"
+msgstr "Kuwait"
+
+msgid "Cayman Islands"
+msgstr "Quần đảo Cayman"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Laos"
+msgstr "Lào"
+
+msgid "Lebanon"
+msgstr "Li-băng"
+
+msgid "St. Lucia"
+msgstr "St. Lucia"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "Liberia"
+msgstr "Liberia"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Lithuania"
+msgstr "Litva"
+
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgid "Latvia"
+msgstr "Latvia"
+
+msgid "Libya"
+msgstr "Libya"
 
 msgid "Morocco"
 msgstr "Ma-rốc"
 
 msgid "Monaco"
-msgstr "Mô-na-cô"
+msgstr "Monaco"
 
-msgid "Uzbekistan"
-msgstr "U-dơ-bê-ki-xtan"
+msgid "Moldova"
+msgstr "Moldova"
 
-msgid "Myanmar [Burma]"
-msgstr "Mi-an-ma [Miến Điện]"
+msgid "Montenegro"
+msgstr "Montenegro"
+
+msgid "St. Martin"
+msgstr "St. Martin"
+
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgid "Marshall Islands"
+msgstr "Quần đảo Marshall"
+
+msgid "North Macedonia"
+msgstr "Bắc Macedonia"
 
 msgid "Mali"
-msgstr "Ma-li"
+msgstr "Mali"
 
-msgid "Macau"
-msgstr "Macao"
+msgid "Myanmar"
+msgstr "Myanmar (Miến Điện)"
 
 msgid "Mongolia"
 msgstr "Mông Cổ"
 
-msgid "Heard Island and McDonald Islands"
-msgstr "Đảo Heard và Quần đảo McDonald"
-
-msgid "American Samoa"
-msgstr "Đảo Somoa thuộc Mỹ"
-
-msgid "Macedonia [FYROM]"
-msgstr "Macedonia"
-
-msgid "Mauritius"
-msgstr "Mô-ri-xơ"
-
-msgid "Malta"
-msgstr "Man-ta"
-
-msgid "Malawi"
-msgstr "Ma-la-uy"
-
-msgid "Maldives"
-msgstr "Man-đi-vơ"
-
-msgid "Martinique"
-msgstr "MQ"
+msgid "Macao"
+msgstr "Macao"
 
 msgid "Northern Mariana Islands"
-msgstr "Quần Đảo Bắc Mariana"
+msgstr "Quần đảo Bắc Mariana"
 
-msgid "Montserrat"
-msgstr ""
+msgid "Martinique"
+msgstr "Martinique"
 
 msgid "Mauritania"
-msgstr "Mô-ri-ta-ni"
+msgstr "Mauritania"
 
-msgid "Isle of Man"
-msgstr "Đảo Man"
+msgid "Montserrat"
+msgstr "Montserrat"
 
-msgid "Uganda"
-msgstr "U-gan-đa"
+msgid "Malta"
+msgstr "Malta"
 
-msgid "Tanzania"
-msgstr "Tan-da-ni-a"
+msgid "Mauritius"
+msgstr "Mauritius"
 
-msgid "Malaysia"
-msgstr "Ma-lay-xi-a"
+msgid "Maldives"
+msgstr "Maldives"
+
+msgid "Malawi"
+msgstr "Malawi"
 
 msgid "Mexico"
-msgstr "Mê-hi-cô"
+msgstr "Mexico"
 
-msgid "Israel"
-msgstr "I-xra-en"
+msgid "Malaysia"
+msgstr "Malaysia"
 
-msgid "Canary Islands"
-msgstr "Quần đảo Canary"
+msgid "Mozambique"
+msgstr "Mozambique"
 
-msgid "French Southern and Antarctic Territories"
-msgstr ""
+msgid "Namibia"
+msgstr "Namibia"
 
-msgid "France"
-msgstr "Pháp"
+msgid "New Caledonia"
+msgstr "New Caledonia"
 
-msgid "Aruba"
-msgstr ""
+msgid "Niger"
+msgstr "Niger"
 
-msgid "Dominican Republic"
-msgstr "Cộng hoà Đô-mi-ni-ca"
+msgid "Norfolk Island"
+msgstr "Đảo Norfolk"
 
-msgid "Metropolitan France"
-msgstr ""
-
-msgid "Saint Helena"
-msgstr "Saint Helena"
-
-msgid "Saint Vincent and the Grenadines"
-msgstr "Xan Vin-xen và Grê-na-din"
-
-msgid "Réunion"
-msgstr "RE"
-
-msgid "Melanesia"
-msgstr "Melanesia"
-
-msgid "Djibouti"
-msgstr "Gi-bu-ti"
-
-msgid "Fiji"
-msgstr "Phi-gi"
-
-msgid "Micronesian Region"
-msgstr "Vùng Micronesian"
-
-msgid "Commonwealth of Independent States"
-msgstr ""
-
-msgid "Australia and New Zealand"
-msgstr "Úc và New Zealand"
+msgid "Nigeria"
+msgstr "Nigeria"
 
 msgid "Nicaragua"
-msgstr "Ni-ca-ra-goa"
+msgstr "Nicaragua"
 
 msgid "Netherlands"
 msgstr "Hà Lan"
@@ -537,402 +636,270 @@ msgstr "Hà Lan"
 msgid "Norway"
 msgstr "Na Uy"
 
-msgid "Namibia"
-msgstr "Nam-mi-bi-a"
-
-msgid "Vanuatu"
-msgstr "Va-nu-a-tu"
-
-msgid "New Caledonia"
-msgstr "New Caledonia"
-
-msgid "North Vietnam"
-msgstr ""
-
-msgid "Niger"
-msgstr "Ni-giê"
-
-msgid "Norfolk Island"
-msgstr "Đảo Norfolk"
-
-msgid "Nigeria"
-msgstr "Ni-giê-ri-a"
-
-msgid "New Zealand"
-msgstr "Niu Di-lân"
-
 msgid "Nepal"
-msgstr "Nê-pan"
-
-msgid "Dronning Maud Land"
-msgstr ""
+msgstr "Nepal"
 
 msgid "Nauru"
-msgstr ""
-
-msgid "Neutral Zone"
-msgstr ""
+msgstr "Nauru"
 
 msgid "Niue"
-msgstr ""
+msgstr "Niue"
 
-msgid "Polynesia"
-msgstr "Polynesia"
+msgid "Aotearoa New Zealand"
+msgstr "Aotearoa New Zealand"
 
-msgid "Ivory Coast"
-msgstr "Bờ Biển Ngà"
+msgid "Oman"
+msgstr "Oman"
 
-msgid "Switzerland"
-msgstr "Thụy Sĩ"
+msgid "Panama"
+msgstr "Panama"
 
-msgid "Colombia"
-msgstr "Cô-lôm-bi-a"
+msgid "Peru"
+msgstr "Peru"
 
-msgid "China"
-msgstr "Trung Quốc"
+msgid "French Polynesia"
+msgstr "Polynesia thuộc Pháp"
 
-msgid "Cameroon"
-msgstr "Ca-mơ-run"
+msgid "Papua New Guinea"
+msgstr "Papua New Guinea"
 
-msgid "Chile"
-msgstr "Chi-lê"
+msgid "Philippines"
+msgstr "Philippines"
 
-msgid "Cocos [Keeling] Islands"
-msgstr "Quần đảo Cocos"
+msgid "Pakistan"
+msgstr "Pakistan"
 
-msgid "Canada"
-msgstr "Ca-na-đa"
+msgid "Poland"
+msgstr "Ba Lan"
 
-msgid "Congo [Republic]"
-msgstr "Công-gô - Brazzaville"
+msgid "St. Pierre & Miquelon"
+msgstr "Saint Pierre và Miquelon"
 
-msgid "Central African Republic"
-msgstr "Cộng hòa Trung Phi"
+msgid "Pitcairn Islands"
+msgstr "Quần đảo Pitcairn"
 
-msgid "Congo [DRC]"
-msgstr "Công-gô - Kinshasa"
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
 
-msgid "Czech Republic"
-msgstr "Cộng hòa Séc"
+msgid "Palestine"
+msgstr "Palestine"
 
-msgid "Cyprus"
-msgstr "Síp"
+msgid "Portugal"
+msgstr "Bồ Đào Nha"
 
-msgid "Christmas Island"
-msgstr "Đảo Giáng Sinh"
-
-msgid "Serbia and Montenegro"
-msgstr "Séc-bia"
-
-msgid "Costa Rica"
-msgstr "Cốt-xta Ri-ca"
+msgid "Palau"
+msgstr "Palau"
 
 msgid "Paraguay"
-msgstr "Pa-ra-goay"
+msgstr "Paraguay"
 
-msgid "Clipperton Island"
-msgstr "Đảo Clipperton"
+msgid "Qatar"
+msgstr "Qatar"
 
-msgid "Cape Verde"
-msgstr "Cáp-ve"
+msgid "Outlying Oceania"
+msgstr "Vùng xa xôi thuộc Châu Đại Dương"
 
-msgid "Cuba"
-msgstr "Cu Ba"
+msgid "Réunion"
+msgstr "Réunion"
 
-msgid "Canton and Enderbury Islands"
-msgstr ""
+msgid "Romania"
+msgstr "Romania"
 
-msgid "Swaziland"
-msgstr "Xoa-di-len"
+msgid "Serbia"
+msgstr "Serbia"
 
-msgid "Syria"
-msgstr "Xi-ri"
+msgid "Russia"
+msgstr "Nga"
 
-msgid "Kyrgyzstan"
-msgstr "Cư-rơ-gư-xtan"
+msgid "Rwanda"
+msgstr "Rwanda"
 
-msgid "Kenya"
-msgstr "Kê-ni-a"
+msgid "Saudi Arabia"
+msgstr "Ả Rập Xê-út"
 
-msgid "Suriname"
-msgstr "Xu-ri-nam"
-
-msgid "Central Asia"
-msgstr "Trung Á"
-
-msgid "Cambodia"
-msgstr "Campuchia"
-
-msgid "Saint Kitts and Nevis"
-msgstr "Xan-kít và Nê-vi"
-
-msgid "Comoros"
-msgstr "Cô-mô"
-
-msgid "São Tomé and Príncipe"
-msgstr "Xao Tô-mê và Prin-xi-pê"
-
-msgid "Slovakia"
-msgstr "Xlô-va-ki-a"
-
-msgid "South Korea"
-msgstr "Hàn Quốc"
-
-msgid "Slovenia"
-msgstr "Xlô-ven-ni-a"
-
-msgid "North Korea"
-msgstr "Bắc Triều Tiên"
-
-msgid "Kuwait"
-msgstr "Cô-oét"
-
-msgid "Senegal"
-msgstr "Xê-nê-gan"
-
-msgid "San Marino"
-msgstr "Xan Ma-ri-nô"
-
-msgid "Sierra Leone"
-msgstr "Xi-ê-ra Lê-ôn"
+msgid "Solomon Islands"
+msgstr "Quần đảo Solomon"
 
 msgid "Seychelles"
-msgstr "Xây-sen"
+msgstr "Seychelles"
 
-msgid "Kazakhstan"
-msgstr "Ka-dắc-xtan"
-
-msgid "Cayman Islands"
-msgstr "Quần Đảo Cayman"
-
-msgid "Singapore"
-msgstr "Xin-ga-po"
+msgid "Sudan"
+msgstr "Sudan"
 
 msgid "Sweden"
 msgstr "Thụy Điển"
 
-msgid "Sudan"
-msgstr "Xu-đăng"
+msgid "Singapore"
+msgstr "Singapore"
 
-msgid "Eastern Europe"
-msgstr "Đông Âu"
+msgid "St. Helena"
+msgstr "St. Helena"
 
-msgid "Europe"
-msgstr "Âu Châu"
+msgid "Slovenia"
+msgstr "Slovenia"
 
-msgid "Dominica"
-msgstr ""
+msgid "Svalbard & Jan Mayen"
+msgstr "Svalbard và Jan Mayen"
 
-msgid "Western Europe"
-msgstr "Tây Âu"
+msgid "Slovakia"
+msgstr "Slovakia"
 
-msgid "Northern Europe"
-msgstr "Miền Bắc Châu Âu"
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
 
-msgid "British Virgin Islands"
-msgstr "Đảo Virgin, thuộc Anh"
+msgid "San Marino"
+msgstr "San Marino"
 
-msgid "Diego Garcia"
-msgstr "Diego Garcia"
+msgid "Senegal"
+msgstr "Senegal"
 
-msgid "East Germany"
-msgstr ""
+msgid "Somalia"
+msgstr "Somalia"
 
-msgid "Germany"
-msgstr "Đức"
+msgid "Suriname"
+msgstr "Suriname"
 
-msgid "Yemen"
-msgstr "Y-ê-men"
+msgid "South Sudan"
+msgstr "Nam Sudan"
 
-msgid "People's Democratic Republic of Yemen"
-msgstr ""
+msgid "São Tomé & Príncipe"
+msgstr "São Tomé và Príncipe"
 
-msgid "Marshall Islands"
-msgstr "Quần đảo Mác-san"
+msgid "El Salvador"
+msgstr "El Salvador"
 
-msgid "South-Central Asia"
-msgstr "Trung Nam Á"
+msgid "Sint Maarten"
+msgstr "Sint Maarten"
 
-msgid "Algeria"
-msgstr "An-giê-ri"
+msgid "Syria"
+msgstr "Syria"
 
-msgid "United States"
-msgstr "Hoa Kỳ"
+msgid "Swaziland"
+msgstr "Swaziland"
 
-msgid "Uruguay"
-msgstr "U-ru-goay"
+msgid "Tristan da Cunha"
+msgstr "Tristan da Cunha"
 
-msgid "Mayotte"
-msgstr "YT"
+msgid "Turks & Caicos Islands"
+msgstr "Quần đảo Turks và Caicos"
 
-msgid "U.S. Minor Outlying Islands"
-msgstr "Các đảo nhỏ xa trung tâm thuộc Mỹ"
+msgid "Chad"
+msgstr "Chad"
 
-msgid "Lebanon"
-msgstr "Li-băng"
+msgid "French Southern Territories"
+msgstr "Lãnh thổ phía Nam Thuộc Pháp"
 
-msgid "Saint Lucia"
-msgstr "Xan Lu-xi"
-
-msgid "Laos"
-msgstr "Lào"
-
-msgid "Tuvalu"
-msgstr "Tu-va-lu"
-
-msgid "Taiwan"
-msgstr "Đài Loan"
-
-msgid "Trinidad and Tobago"
-msgstr "Tri-ni-đát và Tô-ba-gô"
-
-msgid "Turkey"
-msgstr "Thổ Nhĩ Kỳ"
-
-msgid "Sri Lanka"
-msgstr "Xri Lan-ca"
-
-msgid "Liechtenstein"
-msgstr "Lich-ten-xtên"
-
-msgid "Cook Islands"
-msgstr "Quần Đảo Cook"
-
-msgid "Tonga"
-msgstr "Tông-ga"
-
-msgid "Lithuania"
-msgstr "Li-tu-a-ni-a"
-
-msgid "Luxembourg"
-msgstr "Lúc-xăm-bua"
-
-msgid "Liberia"
-msgstr "Li-bê-ri-a"
-
-msgid "Lesotho"
-msgstr "Lê-xô-thô"
+msgid "Togo"
+msgstr "Togo"
 
 msgid "Thailand"
 msgstr "Thái Lan"
 
-msgid "French Southern Territories"
-msgstr "Thuộc Địa Nam của Pháp"
+msgid "Tajikistan"
+msgstr "Tajikistan"
 
-msgid "Togo"
-msgstr "Tô-gô"
+msgid "Tokelau"
+msgstr "Tokelau"
 
-msgid "Chad"
-msgstr "Sát"
+msgid "East Timor"
+msgstr "Đông Timor"
 
-msgid "Turks and Caicos Islands"
-msgstr "Quần Đảo Turk và Caicos"
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
 
-msgid "Libya"
-msgstr "Li-bi"
+msgid "Tunisia"
+msgstr "Tunisia"
 
-msgid "Czechoslovakia"
-msgstr ""
+msgid "Tonga"
+msgstr "Tonga"
 
-msgid "Ascension Island"
-msgstr "Đảo Ascension"
+msgid "Turkey"
+msgstr "Thổ Nhĩ Kỳ"
 
-msgid "Western Asia"
-msgstr "Tây Á"
+msgid "Trinidad & Tobago"
+msgstr "Trinidad và Tobago"
 
-msgid "United Arab Emirates"
-msgstr "Các Tiểu Vương quốc A-rập Thống nhất"
+msgid "Tuvalu"
+msgstr "Tuvalu"
 
-msgid "Andorra"
-msgstr "Andorra"
+msgid "Taiwan"
+msgstr "Đài Loan"
 
-msgid "Antigua and Barbuda"
-msgstr "An-ti-gu-a và Ba-bu-đa"
+msgid "Tanzania"
+msgstr "Tanzania"
 
-msgid "Afghanistan"
-msgstr "Áp-ga-ni-xtan"
+msgid "Ukraine"
+msgstr "Ukraina"
 
-msgid "Anguilla"
-msgstr ""
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "U.S. Outlying Islands"
+msgstr "Các tiểu đảo xa của Hoa Kỳ"
+
+msgid "UN"
+msgstr "Liên hiệp quốc"
+
+msgid "US"
+msgstr "Hoa Kỳ"
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Uzbekistan"
+msgstr "Uzbekistan"
+
+msgid "Vatican City"
+msgstr "Thành Vatican"
+
+msgid "St. Vincent & Grenadines"
+msgstr "St. Vincent và Grenadines"
+
+msgid "Venezuela"
+msgstr "Venezuela"
+
+msgid "British Virgin Islands"
+msgstr "Quần đảo Virgin thuộc Anh"
 
 msgid "U.S. Virgin Islands"
-msgstr "Quần đảo Virgin, Mỹ"
+msgstr "Quần đảo Virgin thuộc Hoa Kỳ"
 
-msgid "Iceland"
-msgstr "Ai-xơ-len"
+msgid "Vietnam"
+msgstr "Việt Nam"
 
-msgid "Iran"
-msgstr "I-ran"
+msgid "Vanuatu"
+msgstr "Vanuatu"
 
-msgid "Armenia"
-msgstr "Ác-mê-ni-a"
+msgid "Wallis & Futuna"
+msgstr "Wallis và Futuna"
 
-msgid "Albania"
-msgstr "An-ba-ni"
+msgid "Samoa"
+msgstr "Samoa"
 
-msgid "Angola"
-msgstr "Ăng-gô-la"
+msgid "Pseudo-Accents"
+msgstr "Pseudo-Accents"
 
-msgid "Netherlands Antilles"
-msgstr "Tây Ấn Hà Lan"
+msgid "Pseudo-Bidi"
+msgstr "Pseudo-Bidi"
 
-msgid "North America"
-msgstr "Bắc Mỹ"
+msgid "Kosovo"
+msgstr "Kosovo"
 
-msgid "Africa"
-msgstr "Châu Phi"
+msgid "Yemen"
+msgstr "Yemen"
 
-msgid "World"
-msgstr "Thế giới"
+msgid "Mayotte"
+msgstr "Mayotte"
 
-msgid "Argentina"
-msgstr "Ác-hen-ti-na"
+msgid "South Africa"
+msgstr "Nam Phi"
 
-msgid "Australia"
-msgstr "Úc"
+msgid "Zambia"
+msgstr "Zambia"
 
-msgid "Austria"
-msgstr "Áo"
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
 
-msgid "South America"
-msgstr "Nam Mỹ"
-
-msgid "India"
-msgstr "Ấn Độ"
-
-msgid "Åland Islands"
-msgstr "Quần đảo Aland"
-
-msgid "Oceania"
-msgstr "Châu Đại Dương"
-
-msgid "Azerbaijan"
-msgstr "Ai-déc-bai-gian"
-
-msgid "Ireland"
-msgstr "Ai-len"
-
-msgid "Indonesia"
-msgstr "Nam Dương"
-
-msgid "Jordan"
-msgstr "Gióc-đa-ni"
-
-msgid "Serbia"
-msgstr "Xéc-bi"
-
-msgid "Qatar"
-msgstr "Ca-ta"
-
-msgid "Midway Islands"
-msgstr ""
-
-msgid "Denmark"
-msgstr "Đan Mạch"
-
-msgid "Mozambique"
-msgstr "Mô-dăm-bích"
-
-msgid "Outlying Oceania"
-msgstr "Vùng xa xôi thuộc Châu Đại Dương"
+msgid "Unknown Region"
+msgstr "Vùng không xác định"
 

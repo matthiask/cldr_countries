@@ -1,0 +1,905 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-31 18:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "world"
+msgstr "Amaḍal"
+
+msgid "Africa"
+msgstr "Taferka"
+
+msgid "North America"
+msgstr "Tamrikt n ugafa"
+
+msgid "South America"
+msgstr "Tamrikt n unẓul"
+
+msgid "Oceania"
+msgstr "Usyanya"
+
+msgid "Western Africa"
+msgstr "Tafriqt n umalu"
+
+msgid "Central America"
+msgstr "Tamrikt Talemmast"
+
+msgid "Eastern Africa"
+msgstr "Tafriqt n usammar"
+
+msgid "Northern Africa"
+msgstr "Tafriqt n ugafa"
+
+msgid "Middle Africa"
+msgstr "Tafriqt talemmast"
+
+msgid "Southern Africa"
+msgstr "Tafriqt n unẓul"
+
+msgid "Americas"
+msgstr "Timrikin"
+
+msgid "Northern America"
+msgstr "Tamrikt tagafant"
+
+msgid "Caribbean"
+msgstr "Kaṛayib"
+
+msgid "Eastern Asia"
+msgstr "Asya n usammar"
+
+msgid "Southern Asia"
+msgstr "Asya n unẓul"
+
+msgid "Southeast Asia"
+msgstr "Asya n unẓul asammar"
+
+msgid "Southern Europe"
+msgstr "Turuft n unẓul"
+
+msgid "Australasia"
+msgstr "Ustṛalazya"
+
+msgid "Melanesia"
+msgstr "Milanizya"
+
+msgid "Micronesian Region"
+msgstr "Tamnaḍt n Mikṛunizya"
+
+msgid "Polynesia"
+msgstr "Pulinizya"
+
+msgid "Asia"
+msgstr "Asya"
+
+msgid "Central Asia"
+msgstr "Asya talemmast"
+
+msgid "Western Asia"
+msgstr "Asya n umalu"
+
+msgid "Europe"
+msgstr "Turuft"
+
+msgid "Eastern Europe"
+msgstr "Turuft n usammar"
+
+msgid "Northern Europe"
+msgstr "Turuft n ugafa"
+
+msgid "Western Europe"
+msgstr "Turuft n umalu"
+
+msgid "Sub-Saharan Africa"
+msgstr "Tafriqt n wadda n Seḥra"
+
+msgid "Latin America"
+msgstr "Tamrikt talaṭinit"
+
+msgid "Ascension Island"
+msgstr "Tigzirt n Aṣunsyun"
+
+msgid "Andorra"
+msgstr "Undura"
+
+msgid "United Arab Emirates"
+msgstr "Tigeldunin Yedduklen Taɛrabin"
+
+msgid "Afghanistan"
+msgstr "Afɣanistan"
+
+msgid "Antigua & Barbuda"
+msgstr "Untiga d Barbuda"
+
+msgid "Anguilla"
+msgstr "Ungiya"
+
+msgid "Albania"
+msgstr "Lalbani"
+
+msgid "Armenia"
+msgstr "Arminya"
+
+msgid "Angola"
+msgstr "Ungula"
+
+msgid "Antarctica"
+msgstr "Anṭarktik"
+
+msgid "Argentina"
+msgstr "Arjuntin"
+
+msgid "American Samoa"
+msgstr "Samwa Tamarikanit"
+
+msgid "Austria"
+msgstr "Ustriya"
+
+msgid "Australia"
+msgstr "Ustrali"
+
+msgid "Aruba"
+msgstr "Aruba"
+
+msgid "Åland Islands"
+msgstr "Tigzirin n Aland"
+
+msgid "Azerbaijan"
+msgstr "Azrabijan"
+
+msgid "Bosnia"
+msgstr "Busna d Hersek"
+
+msgid "Barbados"
+msgstr "Barbadus"
+
+msgid "Bangladesh"
+msgstr "Bangladac"
+
+msgid "Belgium"
+msgstr "Belǧik"
+
+msgid "Burkina Faso"
+msgstr "Burkina Fasu"
+
+msgid "Bulgaria"
+msgstr "Bulgari"
+
+msgid "Bahrain"
+msgstr "Baḥrin"
+
+msgid "Burundi"
+msgstr "Burandi"
+
+msgid "Benin"
+msgstr "Binin"
+
+msgid "St. Barthélemy"
+msgstr "Sant Baṛtilimi"
+
+msgid "Bermuda"
+msgstr "Bermuda"
+
+msgid "Brunei"
+msgstr "Bruney"
+
+msgid "Bolivia"
+msgstr "Bulivi"
+
+msgid "Caribbean Netherlands"
+msgstr "Huland n Kaṛayib"
+
+msgid "Brazil"
+msgstr "Brizil"
+
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgid "Bhutan"
+msgstr "Bhutan"
+
+msgid "Bouvet Island"
+msgstr "Tigzirin n Buvet"
+
+msgid "Botswana"
+msgstr "Bustwana"
+
+msgid "Belarus"
+msgstr "Bilarus"
+
+msgid "Belize"
+msgstr "Biliz"
+
+msgid "Canada"
+msgstr "Kanada"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "Tigzirin n Kukus"
+
+msgid "Congo (DRC)"
+msgstr "Tagduda Tamegdayt n Kungu"
+
+msgid "Central African Republic"
+msgstr "Tigduda n Tefriqt Talemmast"
+
+msgid "Congo (Republic)"
+msgstr "Kungu (Tagduda)"
+
+msgid "Switzerland"
+msgstr "Swis"
+
+msgid "Ivory Coast"
+msgstr "Kuṭ Divwar"
+
+msgid "Cook Islands"
+msgstr "Tigzirin n Kuk"
+
+msgid "Chile"
+msgstr "Cili"
+
+msgid "Cameroon"
+msgstr "Kamirun"
+
+msgid "China"
+msgstr "Lacin"
+
+msgid "Colombia"
+msgstr "Kulumbi"
+
+msgid "Clipperton Island"
+msgstr "Tigzirt n Klipirṭun"
+
+msgid "Sark"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "Kusta Rika"
+
+msgid "Cuba"
+msgstr "Kuba"
+
+msgid "Cabo Verde"
+msgstr "Tigzirin n yixef azegzaw"
+
+msgid "Curaçao"
+msgstr "Kurasaw"
+
+msgid "Christmas Island"
+msgstr "Tigzrin n Kristmaṣ"
+
+msgid "Cyprus"
+msgstr "Cipr"
+
+msgid "Czech Republic"
+msgstr "Tagduda n Čcik"
+
+msgid "Germany"
+msgstr "Lalman"
+
+msgid "Diego Garcia"
+msgstr "Dyigu Garsiya"
+
+msgid "Djibouti"
+msgstr "Ǧibuti"
+
+msgid "Denmark"
+msgstr "Denmark"
+
+msgid "Dominica"
+msgstr "Duminik"
+
+msgid "Dominican Republic"
+msgstr "Tigduda Taduminikit"
+
+msgid "Algeria"
+msgstr "Lezzayer"
+
+msgid "Ceuta & Melilla"
+msgstr "Sebta d Melilla"
+
+msgid "Ecuador"
+msgstr "Ikwaṭur"
+
+msgid "Estonia"
+msgstr "Istunya"
+
+msgid "Egypt"
+msgstr "Maṣr"
+
+msgid "Western Sahara"
+msgstr "Seḥra n umalu"
+
+msgid "Eritrea"
+msgstr "Iritiria"
+
+msgid "Spain"
+msgstr "Spanya"
+
+msgid "Ethiopia"
+msgstr "Utyupi"
+
+msgid "European Union"
+msgstr "Tiddukkla n Turuft"
+
+msgid "Eurozone"
+msgstr "Tamnaḍt n Turuft"
+
+msgid "Finland"
+msgstr "Finlund"
+
+msgid "Fiji"
+msgstr "Fiji"
+
+msgid "Falkland Islands (Islas Malvinas)"
+msgstr "Tigzirin n Falkland"
+
+msgid "Micronesia"
+msgstr "Mikrunizya"
+
+msgid "Faroe Islands"
+msgstr "Tigzirin n Faṛwi"
+
+msgid "France"
+msgstr "Fransa"
+
+msgid "Gabon"
+msgstr "Gabun"
+
+msgid "UK"
+msgstr "TY"
+
+msgid "Grenada"
+msgstr "Grunad"
+
+msgid "Georgia"
+msgstr "Jiyurji"
+
+msgid "French Guiana"
+msgstr "Ɣana tafransist"
+
+msgid "Guernsey"
+msgstr "Girnizi"
+
+msgid "Ghana"
+msgstr "Ɣana"
+
+msgid "Gibraltar"
+msgstr "Jibraltar"
+
+msgid "Greenland"
+msgstr "Grunland"
+
+msgid "Gambia"
+msgstr "Gambya"
+
+msgid "Guinea"
+msgstr "Ɣinya"
+
+msgid "Guadeloupe"
+msgstr "Gwadalupi"
+
+msgid "Equatorial Guinea"
+msgstr "Ɣinya Tasebgast"
+
+msgid "Greece"
+msgstr "Lagris"
+
+msgid "South Georgia & South Sandwich Islands"
+msgstr "Tigzirin n Jyuṛjya n Unẓul akked Sandwič n Unẓul"
+
+msgid "Guatemala"
+msgstr "Gwatimala"
+
+msgid "Guam"
+msgstr "Gwam"
+
+msgid "Guinea-Bissau"
+msgstr "Ɣinya-Bisaw"
+
+msgid "Guyana"
+msgstr "Guwana"
+
+msgid "Hong Kong"
+msgstr "Hung Kung"
+
+msgid "Heard & McDonald Islands"
+msgstr "Tigzirin n Hird d Makdunalt"
+
+msgid "Honduras"
+msgstr "Hunduras"
+
+msgid "Croatia"
+msgstr "Kerwasya"
+
+msgid "Haiti"
+msgstr "Hayti"
+
+msgid "Hungary"
+msgstr "Hungri"
+
+msgid "Canary Islands"
+msgstr "Tigzirin Tikanaṛiyin"
+
+msgid "Indonesia"
+msgstr "Indunizi"
+
+msgid "Ireland"
+msgstr "Lirlund"
+
+msgid "Israel"
+msgstr "Izrayil"
+
+msgid "Isle of Man"
+msgstr "Tigzirt n Man"
+
+msgid "India"
+msgstr "Lhend"
+
+msgid "Chagos Archipelago"
+msgstr "Akal Aglizi deg Ugaraw Ahendi"
+
+msgid "Iraq"
+msgstr "Lɛiraq"
+
+msgid "Iran"
+msgstr "Iran"
+
+msgid "Iceland"
+msgstr "Island"
+
+msgid "Italy"
+msgstr "Ṭelyan"
+
+msgid "Jersey"
+msgstr "Jirzi"
+
+msgid "Jamaica"
+msgstr "Jamyika"
+
+msgid "Jordan"
+msgstr "Lajurdani"
+
+msgid "Japan"
+msgstr "Jappu"
+
+msgid "Kenya"
+msgstr "Kinya"
+
+msgid "Kyrgyzstan"
+msgstr "Kirigistan"
+
+msgid "Cambodia"
+msgstr "Cambudya"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "Comoros"
+msgstr "Kumur"
+
+msgid "St. Kitts & Nevis"
+msgstr "San Kits d Nivis"
+
+msgid "North Korea"
+msgstr "Kurya, Ufella"
+
+msgid "South Korea"
+msgstr "Kurya, Wadda"
+
+msgid "Kuwait"
+msgstr "Kuwayt"
+
+msgid "Cayman Islands"
+msgstr "Tigzirin n Kamyan"
+
+msgid "Kazakhstan"
+msgstr "Kazaxistan"
+
+msgid "Laos"
+msgstr "Laws"
+
+msgid "Lebanon"
+msgstr "Lubnan"
+
+msgid "St. Lucia"
+msgstr "San Lučya"
+
+msgid "Liechtenstein"
+msgstr "Layctenstan"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "Liberia"
+msgstr "Libirya"
+
+msgid "Lesotho"
+msgstr "Lizuṭu"
+
+msgid "Lithuania"
+msgstr "Liṭwanya"
+
+msgid "Luxembourg"
+msgstr "Luksamburg"
+
+msgid "Latvia"
+msgstr "Latvia"
+
+msgid "Libya"
+msgstr "Libya"
+
+msgid "Morocco"
+msgstr "Lmerruk"
+
+msgid "Monaco"
+msgstr "Munaku"
+
+msgid "Moldova"
+msgstr "Muldabi"
+
+msgid "Montenegro"
+msgstr "Muntinigru"
+
+msgid "St. Martin"
+msgstr "San Maṛtan"
+
+msgid "Madagascar"
+msgstr "Madaɣecqer"
+
+msgid "Marshall Islands"
+msgstr "Tigzirin n Marcal"
+
+msgid "North Macedonia"
+msgstr "Masidunya n ugafa"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Myanmar"
+msgstr "Myanmar"
+
+msgid "Mongolia"
+msgstr "Mungulya"
+
+msgid "Macao"
+msgstr "Makaw"
+
+msgid "Northern Mariana Islands"
+msgstr "Tigzirin n Maryan Ufella"
+
+msgid "Martinique"
+msgstr "Martinik"
+
+msgid "Mauritania"
+msgstr "Muriṭanya"
+
+msgid "Montserrat"
+msgstr "Munsirat"
+
+msgid "Malta"
+msgstr "Malṭ"
+
+msgid "Mauritius"
+msgstr "Muris"
+
+msgid "Maldives"
+msgstr "Maldib"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Mexico"
+msgstr "Meksik"
+
+msgid "Malaysia"
+msgstr "Malizya"
+
+msgid "Mozambique"
+msgstr "Muzembiq"
+
+msgid "Namibia"
+msgstr "Namibya"
+
+msgid "New Caledonia"
+msgstr "Kalidunya Tamaynut"
+
+msgid "Niger"
+msgstr "Nijer"
+
+msgid "Norfolk Island"
+msgstr "Tigzirin Tinawfukin"
+
+msgid "Nigeria"
+msgstr "Nijirya"
+
+msgid "Nicaragua"
+msgstr "Nikaragwa"
+
+msgid "Netherlands"
+msgstr "Timura-Yessakesren"
+
+msgid "Norway"
+msgstr "Nurvij"
+
+msgid "Nepal"
+msgstr "Nipal"
+
+msgid "Nauru"
+msgstr "Nuru"
+
+msgid "Niue"
+msgstr "Niwi"
+
+msgid "Aotearoa New Zealand"
+msgstr "Ziland Tamaynut"
+
+msgid "Oman"
+msgstr "Ɛuman"
+
+msgid "Panama"
+msgstr "Panam"
+
+msgid "Peru"
+msgstr "Piru"
+
+msgid "French Polynesia"
+msgstr "Pulunizi tafransist"
+
+msgid "Papua New Guinea"
+msgstr "Ɣinya Tamaynut Tapaput"
+
+msgid "Philippines"
+msgstr "Filipin"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Poland"
+msgstr "Pulund"
+
+msgid "St. Pierre & Miquelon"
+msgstr "San Pyar d Miklun"
+
+msgid "Pitcairn Islands"
+msgstr "Pitkarin"
+
+msgid "Puerto Rico"
+msgstr "Purtu Riku"
+
+msgid "Palestine"
+msgstr "Palistin"
+
+msgid "Portugal"
+msgstr "Purtugal"
+
+msgid "Palau"
+msgstr "Palu"
+
+msgid "Paraguay"
+msgstr "Paragway"
+
+msgid "Qatar"
+msgstr "Qaṭar"
+
+msgid "Outlying Oceania"
+msgstr "Timnaḍin ibeɛden n Usyanya"
+
+msgid "Réunion"
+msgstr "Timlilit"
+
+msgid "Romania"
+msgstr "Rumani"
+
+msgid "Serbia"
+msgstr "Ṣirbya"
+
+msgid "Russia"
+msgstr "Rrus"
+
+msgid "Rwanda"
+msgstr "Ruwanda"
+
+msgid "Saudi Arabia"
+msgstr "Suɛudiya Taɛrabt"
+
+msgid "Solomon Islands"
+msgstr "Tigzirin n Sulumun"
+
+msgid "Seychelles"
+msgstr "Seycel"
+
+msgid "Sudan"
+msgstr "Sudan"
+
+msgid "Sweden"
+msgstr "Swid"
+
+msgid "Singapore"
+msgstr "Singafur"
+
+msgid "St. Helena"
+msgstr "Sant Ilina"
+
+msgid "Slovenia"
+msgstr "Sluvinya"
+
+msgid "Svalbard & Jan Mayen"
+msgstr "Svalvard d Jan Mayen"
+
+msgid "Slovakia"
+msgstr "Sluvakya"
+
+msgid "Sierra Leone"
+msgstr "Sira Lyun"
+
+msgid "San Marino"
+msgstr "San Marinu"
+
+msgid "Senegal"
+msgstr "Sinigal"
+
+msgid "Somalia"
+msgstr "Ṣumal"
+
+msgid "Suriname"
+msgstr "Surinam"
+
+msgid "South Sudan"
+msgstr "Sudan n unẓul"
+
+msgid "São Tomé & Príncipe"
+msgstr "Saw Tumi d Pransip"
+
+msgid "El Salvador"
+msgstr "Salvadur"
+
+msgid "Sint Maarten"
+msgstr "Sint Maarten"
+
+msgid "Syria"
+msgstr "Surya"
+
+msgid "Swaziland"
+msgstr "Swaziland"
+
+msgid "Tristan da Cunha"
+msgstr "Tristan da Kunha"
+
+msgid "Turks & Caicos Islands"
+msgstr "Ṭurk d Tegzirin n Kaykus"
+
+msgid "Chad"
+msgstr "Čad"
+
+msgid "French Southern Territories"
+msgstr "Timura tifransisin n unẓul"
+
+msgid "Togo"
+msgstr "Ṭugu"
+
+msgid "Thailand"
+msgstr "Ṭayland"
+
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+msgid "Tokelau"
+msgstr "Ṭuklu"
+
+msgid "East Timor"
+msgstr "Timur n Usammar"
+
+msgid "Turkmenistan"
+msgstr "Ṭurkmanistan"
+
+msgid "Tunisia"
+msgstr "Tunes"
+
+msgid "Tonga"
+msgstr "Ṭunga"
+
+msgid "Turkey"
+msgstr "Ṭurk"
+
+msgid "Trinidad & Tobago"
+msgstr "Ṭrindad d Ṭubagu"
+
+msgid "Tuvalu"
+msgstr "Ṭuvalu"
+
+msgid "Taiwan"
+msgstr "Ṭaywan"
+
+msgid "Tanzania"
+msgstr "Ṭanzanya"
+
+msgid "Ukraine"
+msgstr "Ukran"
+
+msgid "Uganda"
+msgstr "Uɣanda"
+
+msgid "U.S. Outlying Islands"
+msgstr "Tigzirin ibeɛden n Marikan"
+
+msgid "UN"
+msgstr "Timura Iddukklen"
+
+msgid "US"
+msgstr "Marikan"
+
+msgid "Uruguay"
+msgstr "Urugway"
+
+msgid "Uzbekistan"
+msgstr "Uzbaxistan"
+
+msgid "Vatican City"
+msgstr "Awanek n Vatikan"
+
+msgid "St. Vincent & Grenadines"
+msgstr "San Vansu d Grunadin"
+
+msgid "Venezuela"
+msgstr "Venzwila"
+
+msgid "British Virgin Islands"
+msgstr "Tigzirin Tiverjiniyin Tigliziyin"
+
+msgid "U.S. Virgin Islands"
+msgstr "W.D. Tigzirin n Virginya"
+
+msgid "Vietnam"
+msgstr "Vyeṭnam"
+
+msgid "Vanuatu"
+msgstr "Vanwatu"
+
+msgid "Wallis & Futuna"
+msgstr "Wallis d Futuna"
+
+msgid "Samoa"
+msgstr "Samwa"
+
+msgid "Pseudo-Accents"
+msgstr "Azun iɣdebba"
+
+msgid "Pseudo-Bidi"
+msgstr "Azun Bidi"
+
+msgid "Kosovo"
+msgstr "Kuṣuvu"
+
+msgid "Yemen"
+msgstr "Lyamen"
+
+msgid "Mayotte"
+msgstr "Mayuṭ"
+
+msgid "South Africa"
+msgstr "Tafriqt Wadda"
+
+msgid "Zambia"
+msgstr "Zambya"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwi"
+
+msgid "Unknown Region"
+msgstr "Timnaḍin Tirussinin"
+

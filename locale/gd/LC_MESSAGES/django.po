@@ -1,0 +1,905 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-31 18:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "world"
+msgstr "An Saoghal"
+
+msgid "Africa"
+msgstr "Afraga"
+
+msgid "North America"
+msgstr "Aimeireaga a Tuath"
+
+msgid "South America"
+msgstr "Aimeireaga a Deas"
+
+msgid "Oceania"
+msgstr "Roinn a’ Chuain Sèimh"
+
+msgid "Western Africa"
+msgstr "Afraga an Iar"
+
+msgid "Central America"
+msgstr "Meadhan Aimeireaga"
+
+msgid "Eastern Africa"
+msgstr "Afraga an Ear"
+
+msgid "Northern Africa"
+msgstr "Afraga a Tuath"
+
+msgid "Middle Africa"
+msgstr "Meadhan Afraga"
+
+msgid "Southern Africa"
+msgstr "Ceann a Deas Afraga"
+
+msgid "Americas"
+msgstr "An Dà Aimeireaga"
+
+msgid "Northern America"
+msgstr "Ceann a Tuath Aimeireaga"
+
+msgid "Caribbean"
+msgstr "Am Muir Caraibeach"
+
+msgid "Eastern Asia"
+msgstr "Àisia an Ear"
+
+msgid "Southern Asia"
+msgstr "Àisia a Deas"
+
+msgid "Southeast Asia"
+msgstr "Àisia an Ear-dheas"
+
+msgid "Southern Europe"
+msgstr "An Roinn-Eòrpa a Deas"
+
+msgid "Australasia"
+msgstr "Astràilia is Sealainn Nuadh"
+
+msgid "Melanesia"
+msgstr "Na h-Eileanan Dubha"
+
+msgid "Micronesian Region"
+msgstr "Roinn nam Meanbh-Eileanan"
+
+msgid "Polynesia"
+msgstr "Poilinèis"
+
+msgid "Asia"
+msgstr "Àisia"
+
+msgid "Central Asia"
+msgstr "Meadhan Àisia"
+
+msgid "Western Asia"
+msgstr "Àisia an Iar"
+
+msgid "Europe"
+msgstr "An Roinn-Eòrpa"
+
+msgid "Eastern Europe"
+msgstr "An Roinn-Eòrpa an Ear"
+
+msgid "Northern Europe"
+msgstr "An Roinn-Eòrpa a Tuath"
+
+msgid "Western Europe"
+msgstr "An Roinn-Eòrpa an Iar"
+
+msgid "Sub-Saharan Africa"
+msgstr "Afraga Deas air an t-Sathara"
+
+msgid "Latin America"
+msgstr "Aimeireaga Laidinneach"
+
+msgid "Ascension Island"
+msgstr "Eilean na Deasgabhalach"
+
+msgid "Andorra"
+msgstr "Andorra"
+
+msgid "United Arab Emirates"
+msgstr "Na h-Iomaratan Arabach Aonaichte"
+
+msgid "Afghanistan"
+msgstr "Afghanastàn"
+
+msgid "Antigua & Barbuda"
+msgstr "Aintìoga is Barbuda"
+
+msgid "Anguilla"
+msgstr "Anguillia"
+
+msgid "Albania"
+msgstr "Albàinia"
+
+msgid "Armenia"
+msgstr "Airmeinea"
+
+msgid "Angola"
+msgstr "Angòla"
+
+msgid "Antarctica"
+msgstr "An Antartaig"
+
+msgid "Argentina"
+msgstr "An Argantain"
+
+msgid "American Samoa"
+msgstr "Samotha na h-Aimeireaga"
+
+msgid "Austria"
+msgstr "An Ostair"
+
+msgid "Australia"
+msgstr "Astràilia"
+
+msgid "Aruba"
+msgstr "Arùba"
+
+msgid "Åland Islands"
+msgstr "Na h-Eileanan Åland"
+
+msgid "Azerbaijan"
+msgstr "Asarbaideàn"
+
+msgid "Bosnia"
+msgstr "Bosna is Hearsagobhana"
+
+msgid "Barbados"
+msgstr "Barbados"
+
+msgid "Bangladesh"
+msgstr "Bangladais"
+
+msgid "Belgium"
+msgstr "A’ Bheilg"
+
+msgid "Burkina Faso"
+msgstr "Buirciona Faso"
+
+msgid "Bulgaria"
+msgstr "A’ Bhulgair"
+
+msgid "Bahrain"
+msgstr "Bachrain"
+
+msgid "Burundi"
+msgstr "Burundaidh"
+
+msgid "Benin"
+msgstr "Beinin"
+
+msgid "St. Barthélemy"
+msgstr "Saint Barthélemy"
+
+msgid "Bermuda"
+msgstr "Bearmùda"
+
+msgid "Brunei"
+msgstr "Brùnaigh"
+
+msgid "Bolivia"
+msgstr "Boilibhia"
+
+msgid "Caribbean Netherlands"
+msgstr "Na Tìrean Ìsle Caraibeach"
+
+msgid "Brazil"
+msgstr "Braisil"
+
+msgid "Bahamas"
+msgstr "Na h-Eileanan Bhathama"
+
+msgid "Bhutan"
+msgstr "Butàn"
+
+msgid "Bouvet Island"
+msgstr "Eilean Bouvet"
+
+msgid "Botswana"
+msgstr "Botsuana"
+
+msgid "Belarus"
+msgstr "A’ Bhealaruis"
+
+msgid "Belize"
+msgstr "A’ Bheilìs"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "Na h-Eileanan Chocos (Keeling)"
+
+msgid "Congo (DRC)"
+msgstr "A’ Chongo (PDC)"
+
+msgid "Central African Republic"
+msgstr "Poblachd Meadhan Afraga"
+
+msgid "Congo (Republic)"
+msgstr "A’ Chongo"
+
+msgid "Switzerland"
+msgstr "An Eilbheis"
+
+msgid "Ivory Coast"
+msgstr "An Costa Ìbhri"
+
+msgid "Cook Islands"
+msgstr "Eileanan Cook"
+
+msgid "Chile"
+msgstr "An t-Sile"
+
+msgid "Cameroon"
+msgstr "Camarun"
+
+msgid "China"
+msgstr "An t-Sìn"
+
+msgid "Colombia"
+msgstr "Coloimbia"
+
+msgid "Clipperton Island"
+msgstr "Eilean Clipperton"
+
+msgid "Sark"
+msgstr "Sarc"
+
+msgid "Costa Rica"
+msgstr "Costa Rìcea"
+
+msgid "Cuba"
+msgstr "Cùba"
+
+msgid "Cabo Verde"
+msgstr "An Ceap Uaine"
+
+msgid "Curaçao"
+msgstr "Curaçao"
+
+msgid "Christmas Island"
+msgstr "Eilean na Nollaig"
+
+msgid "Cyprus"
+msgstr "Cìopras"
+
+msgid "Czech Republic"
+msgstr "Poblachd na Seice"
+
+msgid "Germany"
+msgstr "A’ Ghearmailt"
+
+msgid "Diego Garcia"
+msgstr "Diego Garcia"
+
+msgid "Djibouti"
+msgstr "Diobùtaidh"
+
+msgid "Denmark"
+msgstr "An Danmhairg"
+
+msgid "Dominica"
+msgstr "Doiminicea"
+
+msgid "Dominican Republic"
+msgstr "A’ Phoblachd Dhoiminiceach"
+
+msgid "Algeria"
+msgstr "Aildiria"
+
+msgid "Ceuta & Melilla"
+msgstr "Ceuta agus Melilla"
+
+msgid "Ecuador"
+msgstr "Eacuador"
+
+msgid "Estonia"
+msgstr "An Eastoin"
+
+msgid "Egypt"
+msgstr "An Èiphit"
+
+msgid "Western Sahara"
+msgstr "Sathara an Iar"
+
+msgid "Eritrea"
+msgstr "Eartra"
+
+msgid "Spain"
+msgstr "An Spàinnt"
+
+msgid "Ethiopia"
+msgstr "An Itiop"
+
+msgid "European Union"
+msgstr "An t-Aonadh Eòrpach"
+
+msgid "Eurozone"
+msgstr "Raon an Eòro"
+
+msgid "Finland"
+msgstr "An Fhionnlann"
+
+msgid "Fiji"
+msgstr "Fìdi"
+
+msgid "Falkland Islands (Islas Malvinas)"
+msgstr "Na h-Eileanan Fàclannach (Islas Malvinas)"
+
+msgid "Micronesia"
+msgstr "Na Meanbh-eileanan"
+
+msgid "Faroe Islands"
+msgstr "Na h-Eileanan Fàro"
+
+msgid "France"
+msgstr "An Fhraing"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "UK"
+msgstr "RA"
+
+msgid "Grenada"
+msgstr "Greanàda"
+
+msgid "Georgia"
+msgstr "A’ Chairtbheil"
+
+msgid "French Guiana"
+msgstr "Guidheàna na Frainge"
+
+msgid "Guernsey"
+msgstr "Geàrnsaidh"
+
+msgid "Ghana"
+msgstr "Gàna"
+
+msgid "Gibraltar"
+msgstr "Diobraltar"
+
+msgid "Greenland"
+msgstr "A’ Ghraonlann"
+
+msgid "Gambia"
+msgstr "A’ Ghaimbia"
+
+msgid "Guinea"
+msgstr "Gini"
+
+msgid "Guadeloupe"
+msgstr "Guadalup"
+
+msgid "Equatorial Guinea"
+msgstr "Gini Mheadhan-Chriosach"
+
+msgid "Greece"
+msgstr "A’ Ghreug"
+
+msgid "South Georgia & South Sandwich Islands"
+msgstr "Seòirsea a Deas is na h-Eileanan Sandwich a Deas"
+
+msgid "Guatemala"
+msgstr "Guatamala"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guinea-Bissau"
+msgstr "Gini-Bioso"
+
+msgid "Guyana"
+msgstr "Guidheàna"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Heard & McDonald Islands"
+msgstr "Eilean Heard is MhicDhòmhnaill"
+
+msgid "Honduras"
+msgstr "Hondùras"
+
+msgid "Croatia"
+msgstr "A’ Chròthais"
+
+msgid "Haiti"
+msgstr "Haidhti"
+
+msgid "Hungary"
+msgstr "An Ungair"
+
+msgid "Canary Islands"
+msgstr "Na h-Eileanan Canàrach"
+
+msgid "Indonesia"
+msgstr "Na h-Innd-innse"
+
+msgid "Ireland"
+msgstr "Èirinn"
+
+msgid "Israel"
+msgstr "Iosrael"
+
+msgid "Isle of Man"
+msgstr "Eilean Mhanainn"
+
+msgid "India"
+msgstr "Na h-Innseachan"
+
+msgid "Chagos Archipelago"
+msgstr "Innis-mhuir Chagos"
+
+msgid "Iraq"
+msgstr "Ioràc"
+
+msgid "Iran"
+msgstr "Ioràn"
+
+msgid "Iceland"
+msgstr "Innis Tìle"
+
+msgid "Italy"
+msgstr "An Eadailt"
+
+msgid "Jersey"
+msgstr "Deàrsaidh"
+
+msgid "Jamaica"
+msgstr "Diameuga"
+
+msgid "Jordan"
+msgstr "Iòrdan"
+
+msgid "Japan"
+msgstr "An t-Seapan"
+
+msgid "Kenya"
+msgstr "Ceinia"
+
+msgid "Kyrgyzstan"
+msgstr "Cìorgastan"
+
+msgid "Cambodia"
+msgstr "Cambuidea"
+
+msgid "Kiribati"
+msgstr "Ciribeas"
+
+msgid "Comoros"
+msgstr "Comoros"
+
+msgid "St. Kitts & Nevis"
+msgstr "Naomh Crìstean is Nibheis"
+
+msgid "North Korea"
+msgstr "Coirèa a Tuath"
+
+msgid "South Korea"
+msgstr "Coirèa"
+
+msgid "Kuwait"
+msgstr "Cuibhèit"
+
+msgid "Cayman Islands"
+msgstr "Na h-Eileanan Caimean"
+
+msgid "Kazakhstan"
+msgstr "Casachstàn"
+
+msgid "Laos"
+msgstr "Làthos"
+
+msgid "Lebanon"
+msgstr "Leabanon"
+
+msgid "St. Lucia"
+msgstr "Naomh Lùisea"
+
+msgid "Liechtenstein"
+msgstr "Lichtenstein"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanca"
+
+msgid "Liberia"
+msgstr "Libèir"
+
+msgid "Lesotho"
+msgstr "Leasoto"
+
+msgid "Lithuania"
+msgstr "An Liotuain"
+
+msgid "Luxembourg"
+msgstr "Lugsamburg"
+
+msgid "Latvia"
+msgstr "An Laitbhe"
+
+msgid "Libya"
+msgstr "Libia"
+
+msgid "Morocco"
+msgstr "Moroco"
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Moldova"
+msgstr "A’ Mholdobha"
+
+msgid "Montenegro"
+msgstr "Am Monadh Neagrach"
+
+msgid "St. Martin"
+msgstr "Naomh Màrtainn"
+
+msgid "Madagascar"
+msgstr "Madagasgar"
+
+msgid "Marshall Islands"
+msgstr "Eileanan Mharshall"
+
+msgid "North Macedonia"
+msgstr "A’ Mhasadon a Tuath"
+
+msgid "Mali"
+msgstr "Màili"
+
+msgid "Myanmar"
+msgstr "Miànmar"
+
+msgid "Mongolia"
+msgstr "Dùthaich nam Mongol"
+
+msgid "Macao"
+msgstr "Macàthu"
+
+msgid "Northern Mariana Islands"
+msgstr "Na h-Eileanan Mairianach a Tuath"
+
+msgid "Martinique"
+msgstr "Mairtinic"
+
+msgid "Mauritania"
+msgstr "Moratàinea"
+
+msgid "Montserrat"
+msgstr "Montsarat"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Mauritius"
+msgstr "Na h-Eileanan Mhoiriseas"
+
+msgid "Maldives"
+msgstr "Na h-Eileanan Mhaladaibh"
+
+msgid "Malawi"
+msgstr "Malabhaidh"
+
+msgid "Mexico"
+msgstr "Meagsago"
+
+msgid "Malaysia"
+msgstr "Malaidhsea"
+
+msgid "Mozambique"
+msgstr "Mòsaimbic"
+
+msgid "Namibia"
+msgstr "An Namaib"
+
+msgid "New Caledonia"
+msgstr "Cailleann Nuadh"
+
+msgid "Niger"
+msgstr "Nìgeir"
+
+msgid "Norfolk Island"
+msgstr "Eilean Norfolk"
+
+msgid "Nigeria"
+msgstr "Nigèiria"
+
+msgid "Nicaragua"
+msgstr "Niocaragua"
+
+msgid "Netherlands"
+msgstr "Na Tìrean Ìsle"
+
+msgid "Norway"
+msgstr "Nirribhidh"
+
+msgid "Nepal"
+msgstr "Neapàl"
+
+msgid "Nauru"
+msgstr "Nabhru"
+
+msgid "Niue"
+msgstr "Niue"
+
+msgid "Aotearoa New Zealand"
+msgstr "Aotearoa Sealainn Nuadh"
+
+msgid "Oman"
+msgstr "Omàn"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Peru"
+msgstr "Pearù"
+
+msgid "French Polynesia"
+msgstr "Poilinèis na Frainge"
+
+msgid "Papua New Guinea"
+msgstr "Gini Nuadh Phaputhach"
+
+msgid "Philippines"
+msgstr "Na h-Eileanan Filipineach"
+
+msgid "Pakistan"
+msgstr "Pagastàn"
+
+msgid "Poland"
+msgstr "A’ Phòlainn"
+
+msgid "St. Pierre & Miquelon"
+msgstr "Saint Pierre agus Miquelon"
+
+msgid "Pitcairn Islands"
+msgstr "Eileanan Pheit a’ Chàirn"
+
+msgid "Puerto Rico"
+msgstr "Porto Rìceo"
+
+msgid "Palestine"
+msgstr "Palastain"
+
+msgid "Portugal"
+msgstr "A’ Phortagail"
+
+msgid "Palau"
+msgstr "Palabh"
+
+msgid "Paraguay"
+msgstr "Paraguaidh"
+
+msgid "Qatar"
+msgstr "Catar"
+
+msgid "Outlying Oceania"
+msgstr "Roinn Iomallach a’ Chuain Sèimh"
+
+msgid "Réunion"
+msgstr "Réunion"
+
+msgid "Romania"
+msgstr "Romàinia"
+
+msgid "Serbia"
+msgstr "An t-Sèirb"
+
+msgid "Russia"
+msgstr "An Ruis"
+
+msgid "Rwanda"
+msgstr "Rubhanda"
+
+msgid "Saudi Arabia"
+msgstr "Aràibia nan Sabhd"
+
+msgid "Solomon Islands"
+msgstr "Eileanan Sholaimh"
+
+msgid "Seychelles"
+msgstr "Na h-Eileanan Sheiseall"
+
+msgid "Sudan"
+msgstr "Sudàn"
+
+msgid "Sweden"
+msgstr "An t-Suain"
+
+msgid "Singapore"
+msgstr "Singeapòr"
+
+msgid "St. Helena"
+msgstr "Eilean Naomh Eilidh"
+
+msgid "Slovenia"
+msgstr "An t-Slòbhain"
+
+msgid "Svalbard & Jan Mayen"
+msgstr "Svalbard is Jan Mayen"
+
+msgid "Slovakia"
+msgstr "An t-Slòbhac"
+
+msgid "Sierra Leone"
+msgstr "Siarra Leòmhann"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Senegal"
+msgstr "Seanagal"
+
+msgid "Somalia"
+msgstr "Somàilia"
+
+msgid "Suriname"
+msgstr "Suranam"
+
+msgid "South Sudan"
+msgstr "Sudàn a Deas"
+
+msgid "São Tomé & Príncipe"
+msgstr "São Tomé agus Príncipe"
+
+msgid "El Salvador"
+msgstr "An Salbhador"
+
+msgid "Sint Maarten"
+msgstr "Sint Maarten"
+
+msgid "Syria"
+msgstr "Siridhea"
+
+msgid "Swaziland"
+msgstr "Dùthaich nan Suasaidh"
+
+msgid "Tristan da Cunha"
+msgstr "Tristan da Cunha"
+
+msgid "Turks & Caicos Islands"
+msgstr "Na h-Eileanan Turcach is Caiceo"
+
+msgid "Chad"
+msgstr "An t-Seàd"
+
+msgid "French Southern Territories"
+msgstr "Ranntairean a Deas na Frainge"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Thailand"
+msgstr "Dùthaich nan Tàidh"
+
+msgid "Tajikistan"
+msgstr "Taidigeastàn"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "East Timor"
+msgstr "Tìomor an Ear"
+
+msgid "Turkmenistan"
+msgstr "Turcmanastàn"
+
+msgid "Tunisia"
+msgstr "Tuinisea"
+
+msgid "Tonga"
+msgstr "Tonga"
+
+msgid "Turkey"
+msgstr "An Tuirc"
+
+msgid "Trinidad & Tobago"
+msgstr "Trianaid agus Tobago"
+
+msgid "Tuvalu"
+msgstr "Tubhalu"
+
+msgid "Taiwan"
+msgstr "Taidh-Bhàn"
+
+msgid "Tanzania"
+msgstr "An Tansan"
+
+msgid "Ukraine"
+msgstr "An Ucràin"
+
+msgid "Uganda"
+msgstr "Uganda"
+
+msgid "U.S. Outlying Islands"
+msgstr "Meanbh-Eileanan Iomallach nan SA"
+
+msgid "UN"
+msgstr "Na Dùthchannan Aonaichte"
+
+msgid "US"
+msgstr "SA"
+
+msgid "Uruguay"
+msgstr "Uruguaidh"
+
+msgid "Uzbekistan"
+msgstr "Usbagastàn"
+
+msgid "Vatican City"
+msgstr "Cathair na Bhatacain"
+
+msgid "St. Vincent & Grenadines"
+msgstr "Naomh Bhionsant agus Eileanan Greanadach"
+
+msgid "Venezuela"
+msgstr "A’ Bheiniseala"
+
+msgid "British Virgin Islands"
+msgstr "Eileanan Breatannach na Maighdinn"
+
+msgid "U.S. Virgin Islands"
+msgstr "Eileanan na Maighdinn aig na SA"
+
+msgid "Vietnam"
+msgstr "Bhiet-Nam"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Wallis & Futuna"
+msgstr "Uallas agus Futuna"
+
+msgid "Samoa"
+msgstr "Samotha"
+
+msgid "Pseudo-Accents"
+msgstr "Sràcan fuadain"
+
+msgid "Pseudo-Bidi"
+msgstr "Dà-chomhaireach fuadain"
+
+msgid "Kosovo"
+msgstr "A’ Chosobho"
+
+msgid "Yemen"
+msgstr "An Eaman"
+
+msgid "Mayotte"
+msgstr "Mayotte"
+
+msgid "South Africa"
+msgstr "Afraga a Deas"
+
+msgid "Zambia"
+msgstr "Sàimbia"
+
+msgid "Zimbabwe"
+msgstr "An t-Sìombab"
+
+msgid "Unknown Region"
+msgstr "Roinn-dùthcha neo-aithnichte"
+

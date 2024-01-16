@@ -7,14 +7,14 @@ from xml.etree import ElementTree
 
 xml = ElementTree.fromstring(open('common/main/en.xml').read())
 
-print '''# coding=utf-8
+print('''# coding=utf-8
 
-from django.utils.translation import ugettext_lazy as _
+from django.utils.translation import gettext_lazy as _
 
 
-countries = {'''
+countries = {''')
 
 for t in xml.findall('localeDisplayNames/territories/territory'):
-    print ('    \'%s\': _(u\'%s\'),' % (t.attrib['type'], t.text.replace('\'', '\\\''))).encode('utf-8')
+    print(('    \'%s\': _(\'%s\'),' % (t.attrib['type'], t.text.replace('\'', '\\\''))))
 
-print '}'
+print('}')

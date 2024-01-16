@@ -1,0 +1,905 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-31 18:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "world"
+msgstr "ലോകം"
+
+msgid "Africa"
+msgstr "ആഫ്രിക്ക"
+
+msgid "North America"
+msgstr "വടക്കേ അമേരിക്ക"
+
+msgid "South America"
+msgstr "തെക്കേ അമേരിക്ക"
+
+msgid "Oceania"
+msgstr "ഓഷ്യാനിയ"
+
+msgid "Western Africa"
+msgstr "പശ്ചിമ ആഫ്രിക്ക"
+
+msgid "Central America"
+msgstr "മദ്ധ്യ അമേരിക്ക"
+
+msgid "Eastern Africa"
+msgstr "കിഴക്കൻ ആഫ്രിക്ക"
+
+msgid "Northern Africa"
+msgstr "ഉത്തരാഫ്രിക്ക"
+
+msgid "Middle Africa"
+msgstr "മദ്ധ്യ ആഫ്രിക്ക"
+
+msgid "Southern Africa"
+msgstr "തെക്കേ ആഫ്രിക്ക"
+
+msgid "Americas"
+msgstr "അമേരിക്കകൾ"
+
+msgid "Northern America"
+msgstr "വടക്കൻ അമേരിക്ക"
+
+msgid "Caribbean"
+msgstr "കരീബിയൻ"
+
+msgid "Eastern Asia"
+msgstr "കിഴക്കൻ ഏഷ്യ"
+
+msgid "Southern Asia"
+msgstr "തെക്കേ ഏഷ്യ"
+
+msgid "Southeast Asia"
+msgstr "തെക്ക്-കിഴക്കൻ ഏഷ്യ"
+
+msgid "Southern Europe"
+msgstr "തെക്കേ യൂറോപ്പ്"
+
+msgid "Australasia"
+msgstr "ഓസ്‌ട്രേലിയയും ന്യൂസിലാൻഡും"
+
+msgid "Melanesia"
+msgstr "മെലനേഷ്യ"
+
+msgid "Micronesian Region"
+msgstr "മൈക്രോനേഷ്യൻ പ്രദേശം"
+
+msgid "Polynesia"
+msgstr "പോളിനേഷ്യ"
+
+msgid "Asia"
+msgstr "ഏഷ്യ"
+
+msgid "Central Asia"
+msgstr "മദ്ധ്യേഷ്യ"
+
+msgid "Western Asia"
+msgstr "പശ്ചിമേഷ്യ"
+
+msgid "Europe"
+msgstr "യൂറോപ്പ്"
+
+msgid "Eastern Europe"
+msgstr "കിഴക്കൻ യൂറോപ്പ്"
+
+msgid "Northern Europe"
+msgstr "വടക്കേ യൂറോപ്പ്"
+
+msgid "Western Europe"
+msgstr "പശ്ചിമ യൂറോപ്പ്"
+
+msgid "Sub-Saharan Africa"
+msgstr "സബ്-സഹാറൻ ആഫ്രിക്ക"
+
+msgid "Latin America"
+msgstr "ലാറ്റിനമേരിക്ക"
+
+msgid "Ascension Island"
+msgstr "അസൻഷൻ ദ്വീപ്"
+
+msgid "Andorra"
+msgstr "അൻഡോറ"
+
+msgid "United Arab Emirates"
+msgstr "യുണൈറ്റഡ് അറബ് എമിറൈറ്റ്‌സ്"
+
+msgid "Afghanistan"
+msgstr "അഫ്‌ഗാനിസ്ഥാൻ"
+
+msgid "Antigua & Barbuda"
+msgstr "ആൻറിഗ്വയും ബർബുഡയും"
+
+msgid "Anguilla"
+msgstr "ആൻഗ്വില്ല"
+
+msgid "Albania"
+msgstr "അൽബേനിയ"
+
+msgid "Armenia"
+msgstr "അർമേനിയ"
+
+msgid "Angola"
+msgstr "അംഗോള"
+
+msgid "Antarctica"
+msgstr "അന്റാർട്ടിക്ക"
+
+msgid "Argentina"
+msgstr "അർജന്റീന"
+
+msgid "American Samoa"
+msgstr "അമേരിക്കൻ സമോവ"
+
+msgid "Austria"
+msgstr "ഓസ്ട്രിയ"
+
+msgid "Australia"
+msgstr "ഓസ്‌ട്രേലിയ"
+
+msgid "Aruba"
+msgstr "അറൂബ"
+
+msgid "Åland Islands"
+msgstr "അലൻഡ് ദ്വീപുകൾ"
+
+msgid "Azerbaijan"
+msgstr "അസർബൈജാൻ"
+
+msgid "Bosnia"
+msgstr "ബോസ്നിയയും ഹെർസഗോവിനയും"
+
+msgid "Barbados"
+msgstr "ബാർബഡോസ്"
+
+msgid "Bangladesh"
+msgstr "ബംഗ്ലാദേശ്"
+
+msgid "Belgium"
+msgstr "ബെൽജിയം"
+
+msgid "Burkina Faso"
+msgstr "ബർക്കിന ഫാസോ"
+
+msgid "Bulgaria"
+msgstr "ബൾഗേറിയ"
+
+msgid "Bahrain"
+msgstr "ബഹ്റിൻ"
+
+msgid "Burundi"
+msgstr "ബറുണ്ടി"
+
+msgid "Benin"
+msgstr "ബെനിൻ"
+
+msgid "St. Barthélemy"
+msgstr "സെന്റ് ബാർത്തലമി"
+
+msgid "Bermuda"
+msgstr "ബർമുഡ"
+
+msgid "Brunei"
+msgstr "ബ്രൂണൈ"
+
+msgid "Bolivia"
+msgstr "ബൊളീവിയ"
+
+msgid "Caribbean Netherlands"
+msgstr "കരീബിയൻ നെതർലാൻഡ്സ്"
+
+msgid "Brazil"
+msgstr "ബ്രസീൽ"
+
+msgid "Bahamas"
+msgstr "ബഹാമാസ്"
+
+msgid "Bhutan"
+msgstr "ഭൂട്ടാൻ"
+
+msgid "Bouvet Island"
+msgstr "ബൗവെട്ട് ദ്വീപ്"
+
+msgid "Botswana"
+msgstr "ബോട്സ്വാന"
+
+msgid "Belarus"
+msgstr "ബെലറൂസ്"
+
+msgid "Belize"
+msgstr "ബെലീസ്"
+
+msgid "Canada"
+msgstr "കാനഡ"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "കോക്കസ് (കീലിംഗ്) ദ്വീപുകൾ"
+
+msgid "Congo (DRC)"
+msgstr "കോംഗോ (DRC)"
+
+msgid "Central African Republic"
+msgstr "സെൻട്രൽ ആഫ്രിക്കൻ റിപ്പബ്ലിക്ക്"
+
+msgid "Congo (Republic)"
+msgstr "കോംഗോ (റിപ്പബ്ലിക്ക്)"
+
+msgid "Switzerland"
+msgstr "സ്വിറ്റ്സർലാൻഡ്"
+
+msgid "Ivory Coast"
+msgstr "ഐവറി കോസ്റ്റ്"
+
+msgid "Cook Islands"
+msgstr "കുക്ക് ദ്വീപുകൾ"
+
+msgid "Chile"
+msgstr "ചിലി"
+
+msgid "Cameroon"
+msgstr "കാമറൂൺ"
+
+msgid "China"
+msgstr "ചൈന"
+
+msgid "Colombia"
+msgstr "കൊളംബിയ"
+
+msgid "Clipperton Island"
+msgstr "ക്ലിപ്പെർട്ടൻ ദ്വീപ്"
+
+msgid "Sark"
+msgstr ""
+
+msgid "Costa Rica"
+msgstr "കോസ്റ്ററിക്ക"
+
+msgid "Cuba"
+msgstr "ക്യൂബ"
+
+msgid "Cabo Verde"
+msgstr "കേപ്പ് വേർഡ്"
+
+msgid "Curaçao"
+msgstr "കുറാകാവോ"
+
+msgid "Christmas Island"
+msgstr "ക്രിസ്മസ് ദ്വീപ്"
+
+msgid "Cyprus"
+msgstr "സൈപ്രസ്"
+
+msgid "Czech Republic"
+msgstr "ചെക്ക് റിപ്പബ്ലിക്ക്"
+
+msgid "Germany"
+msgstr "ജർമ്മനി"
+
+msgid "Diego Garcia"
+msgstr "ഡീഗോ ഗ്രാഷ്യ"
+
+msgid "Djibouti"
+msgstr "ജിബൂത്തി"
+
+msgid "Denmark"
+msgstr "ഡെൻമാർക്ക്"
+
+msgid "Dominica"
+msgstr "ഡൊമിനിക്ക"
+
+msgid "Dominican Republic"
+msgstr "ഡൊമിനിക്കൻ റിപ്പബ്ലിക്ക്"
+
+msgid "Algeria"
+msgstr "അൾജീരിയ"
+
+msgid "Ceuta & Melilla"
+msgstr "സെയൂത്ത ആൻഡ് മെലിയ"
+
+msgid "Ecuador"
+msgstr "ഇക്വഡോർ"
+
+msgid "Estonia"
+msgstr "എസ്റ്റോണിയ‍"
+
+msgid "Egypt"
+msgstr "ഈജിപ്ത്"
+
+msgid "Western Sahara"
+msgstr "പശ്ചിമ സഹാറ"
+
+msgid "Eritrea"
+msgstr "എറിത്രിയ"
+
+msgid "Spain"
+msgstr "സ്‌പെയിൻ"
+
+msgid "Ethiopia"
+msgstr "എത്യോപ്യ"
+
+msgid "European Union"
+msgstr "യൂറോപ്യൻ യൂണിയൻ"
+
+msgid "Eurozone"
+msgstr "യൂറോസോൺ"
+
+msgid "Finland"
+msgstr "ഫിൻലാൻഡ്"
+
+msgid "Fiji"
+msgstr "ഫിജി"
+
+msgid "Falkland Islands (Islas Malvinas)"
+msgstr "ഫോക്ക്‌ലൻഡ് ദ്വീപുകൾ (ഇസ്‌ലാസ് മാൽവീനാസ്)"
+
+msgid "Micronesia"
+msgstr "മൈക്രോനേഷ്യ"
+
+msgid "Faroe Islands"
+msgstr "ഫറോ ദ്വീപുകൾ"
+
+msgid "France"
+msgstr "ഫ്രാൻസ്"
+
+msgid "Gabon"
+msgstr "ഗാബൺ"
+
+msgid "UK"
+msgstr "യുകെ"
+
+msgid "Grenada"
+msgstr "ഗ്രനേഡ"
+
+msgid "Georgia"
+msgstr "ജോർജ്ജിയ"
+
+msgid "French Guiana"
+msgstr "ഫ്രഞ്ച് ഗയാന"
+
+msgid "Guernsey"
+msgstr "ഗേൺസി"
+
+msgid "Ghana"
+msgstr "ഘാന"
+
+msgid "Gibraltar"
+msgstr "ജിബ്രാൾട്ടർ"
+
+msgid "Greenland"
+msgstr "ഗ്രീൻലൻഡ്"
+
+msgid "Gambia"
+msgstr "ഗാംബിയ"
+
+msgid "Guinea"
+msgstr "ഗിനിയ"
+
+msgid "Guadeloupe"
+msgstr "ഗ്വാഡലൂപ്പ്"
+
+msgid "Equatorial Guinea"
+msgstr "ഇക്വറ്റോറിയൽ ഗിനിയ"
+
+msgid "Greece"
+msgstr "ഗ്രീസ്"
+
+msgid "South Georgia & South Sandwich Islands"
+msgstr "ദക്ഷിണ ജോർജ്ജിയയും ദക്ഷിണ സാൻഡ്‌വിച്ച് ദ്വീപുകളും"
+
+msgid "Guatemala"
+msgstr "ഗ്വാട്ടിമാല"
+
+msgid "Guam"
+msgstr "ഗ്വാം"
+
+msgid "Guinea-Bissau"
+msgstr "ഗിനിയ-ബിസൗ"
+
+msgid "Guyana"
+msgstr "ഗയാന"
+
+msgid "Hong Kong"
+msgstr "ഹോങ്കോങ്"
+
+msgid "Heard & McDonald Islands"
+msgstr "ഹേർഡ്, മക്ഡോണൾഡ് ദ്വീപുകൾ"
+
+msgid "Honduras"
+msgstr "ഹോണ്ടുറാസ്"
+
+msgid "Croatia"
+msgstr "ക്രൊയേഷ്യ"
+
+msgid "Haiti"
+msgstr "ഹെയ്തി"
+
+msgid "Hungary"
+msgstr "ഹംഗറി"
+
+msgid "Canary Islands"
+msgstr "കാനറി ദ്വീപുകൾ"
+
+msgid "Indonesia"
+msgstr "ഇന്തോനേഷ്യ"
+
+msgid "Ireland"
+msgstr "അയർലൻഡ്"
+
+msgid "Israel"
+msgstr "ഇസ്രായേൽ"
+
+msgid "Isle of Man"
+msgstr "ഐൽ ഓഫ് മാൻ"
+
+msgid "India"
+msgstr "ഇന്ത്യ"
+
+msgid "Chagos Archipelago"
+msgstr "ചാഗോസ് ആർക്കിപ്പെലഗോ"
+
+msgid "Iraq"
+msgstr "ഇറാഖ്"
+
+msgid "Iran"
+msgstr "ഇറാൻ"
+
+msgid "Iceland"
+msgstr "ഐസ്‌ലാന്റ്"
+
+msgid "Italy"
+msgstr "ഇറ്റലി"
+
+msgid "Jersey"
+msgstr "ജേഴ്സി"
+
+msgid "Jamaica"
+msgstr "ജമൈക്ക"
+
+msgid "Jordan"
+msgstr "ജോർദ്ദാൻ"
+
+msgid "Japan"
+msgstr "ജപ്പാൻ"
+
+msgid "Kenya"
+msgstr "കെനിയ"
+
+msgid "Kyrgyzstan"
+msgstr "കിർഗിസ്ഥാൻ"
+
+msgid "Cambodia"
+msgstr "കംബോഡിയ"
+
+msgid "Kiribati"
+msgstr "കിരിബാട്ടി"
+
+msgid "Comoros"
+msgstr "കോമൊറോസ്"
+
+msgid "St. Kitts & Nevis"
+msgstr "സെന്റ് കിറ്റ്‌സും നെവിസും"
+
+msgid "North Korea"
+msgstr "ഉത്തരകൊറിയ"
+
+msgid "South Korea"
+msgstr "ദക്ഷിണകൊറിയ"
+
+msgid "Kuwait"
+msgstr "കുവൈറ്റ്"
+
+msgid "Cayman Islands"
+msgstr "കേയ്മാൻ ദ്വീപുകൾ"
+
+msgid "Kazakhstan"
+msgstr "കസാഖിസ്ഥാൻ"
+
+msgid "Laos"
+msgstr "ലാവോസ്"
+
+msgid "Lebanon"
+msgstr "ലെബനൻ"
+
+msgid "St. Lucia"
+msgstr "സെന്റ് ലൂസിയ"
+
+msgid "Liechtenstein"
+msgstr "ലിച്ചൺസ്റ്റൈൻ"
+
+msgid "Sri Lanka"
+msgstr "ശ്രീലങ്ക"
+
+msgid "Liberia"
+msgstr "ലൈബീരിയ"
+
+msgid "Lesotho"
+msgstr "ലെസോതോ"
+
+msgid "Lithuania"
+msgstr "ലിത്വാനിയ"
+
+msgid "Luxembourg"
+msgstr "ലക്സംബർഗ്"
+
+msgid "Latvia"
+msgstr "ലാറ്റ്വിയ"
+
+msgid "Libya"
+msgstr "ലിബിയ"
+
+msgid "Morocco"
+msgstr "മൊറോക്കൊ"
+
+msgid "Monaco"
+msgstr "മൊണാക്കോ"
+
+msgid "Moldova"
+msgstr "മൾഡോവ"
+
+msgid "Montenegro"
+msgstr "മോണ്ടെനെഗ്രോ"
+
+msgid "St. Martin"
+msgstr "സെന്റ് മാർട്ടിൻ"
+
+msgid "Madagascar"
+msgstr "മഡഗാസ്കർ"
+
+msgid "Marshall Islands"
+msgstr "മാർഷൽ ദ്വീപുകൾ"
+
+msgid "North Macedonia"
+msgstr "നോർത്ത് മാസിഡോണിയ"
+
+msgid "Mali"
+msgstr "മാലി"
+
+msgid "Myanmar"
+msgstr "മ്യാൻമാർ (ബർമ്മ)"
+
+msgid "Mongolia"
+msgstr "മംഗോളിയ"
+
+msgid "Macao"
+msgstr "മക്കാവു"
+
+msgid "Northern Mariana Islands"
+msgstr "ഉത്തര മറിയാനാ ദ്വീപുകൾ"
+
+msgid "Martinique"
+msgstr "മാർട്ടിനിക്ക്"
+
+msgid "Mauritania"
+msgstr "മൗറിറ്റാനിയ"
+
+msgid "Montserrat"
+msgstr "മൊണ്ടെസരത്ത്"
+
+msgid "Malta"
+msgstr "മാൾട്ട"
+
+msgid "Mauritius"
+msgstr "മൗറീഷ്യസ്"
+
+msgid "Maldives"
+msgstr "മാലിദ്വീപ്"
+
+msgid "Malawi"
+msgstr "മലാവി"
+
+msgid "Mexico"
+msgstr "മെക്സിക്കോ"
+
+msgid "Malaysia"
+msgstr "മലേഷ്യ"
+
+msgid "Mozambique"
+msgstr "മൊസാംബിക്ക്"
+
+msgid "Namibia"
+msgstr "നമീബിയ"
+
+msgid "New Caledonia"
+msgstr "ന്യൂ കാലിഡോണിയ"
+
+msgid "Niger"
+msgstr "നൈജർ"
+
+msgid "Norfolk Island"
+msgstr "നോർഫോക് ദ്വീപ്"
+
+msgid "Nigeria"
+msgstr "നൈജീരിയ"
+
+msgid "Nicaragua"
+msgstr "നിക്കരാഗ്വ"
+
+msgid "Netherlands"
+msgstr "നെതർലാൻഡ്‌സ്"
+
+msgid "Norway"
+msgstr "നോർവെ"
+
+msgid "Nepal"
+msgstr "നേപ്പാൾ"
+
+msgid "Nauru"
+msgstr "നൗറു"
+
+msgid "Niue"
+msgstr "ന്യൂയി"
+
+msgid "Aotearoa New Zealand"
+msgstr "ഓട്ടേറുവ ന്യൂസിലൻഡ്"
+
+msgid "Oman"
+msgstr "ഒമാൻ"
+
+msgid "Panama"
+msgstr "പനാമ"
+
+msgid "Peru"
+msgstr "പെറു"
+
+msgid "French Polynesia"
+msgstr "ഫ്രഞ്ച് പോളിനേഷ്യ"
+
+msgid "Papua New Guinea"
+msgstr "പാപ്പുവ ന്യൂ ഗിനിയ"
+
+msgid "Philippines"
+msgstr "ഫിലിപ്പീൻസ്"
+
+msgid "Pakistan"
+msgstr "പാക്കിസ്ഥാൻ"
+
+msgid "Poland"
+msgstr "പോളണ്ട്"
+
+msgid "St. Pierre & Miquelon"
+msgstr "സെന്റ് പിയറി ആൻഡ് മിക്വലൻ"
+
+msgid "Pitcairn Islands"
+msgstr "പിറ്റ്‌കെയ്‌ൻ ദ്വീപുകൾ"
+
+msgid "Puerto Rico"
+msgstr "പോർട്ടോ റിക്കോ"
+
+msgid "Palestine"
+msgstr "പലസ്‌തീൻ"
+
+msgid "Portugal"
+msgstr "പോർച്ചുഗൽ"
+
+msgid "Palau"
+msgstr "പലാവു"
+
+msgid "Paraguay"
+msgstr "പരാഗ്വേ"
+
+msgid "Qatar"
+msgstr "ഖത്തർ"
+
+msgid "Outlying Oceania"
+msgstr "ദ്വീപസമൂഹം"
+
+msgid "Réunion"
+msgstr "റീയൂണിയൻ"
+
+msgid "Romania"
+msgstr "റൊമാനിയ"
+
+msgid "Serbia"
+msgstr "സെർബിയ"
+
+msgid "Russia"
+msgstr "റഷ്യ"
+
+msgid "Rwanda"
+msgstr "റുവാണ്ട"
+
+msgid "Saudi Arabia"
+msgstr "സൗദി അറേബ്യ"
+
+msgid "Solomon Islands"
+msgstr "സോളമൻ ദ്വീപുകൾ"
+
+msgid "Seychelles"
+msgstr "സീഷെൽസ്"
+
+msgid "Sudan"
+msgstr "സുഡാൻ"
+
+msgid "Sweden"
+msgstr "സ്വീഡൻ"
+
+msgid "Singapore"
+msgstr "സിംഗപ്പൂർ"
+
+msgid "St. Helena"
+msgstr "സെന്റ് ഹെലീന"
+
+msgid "Slovenia"
+msgstr "സ്ലോവേനിയ"
+
+msgid "Svalbard & Jan Mayen"
+msgstr "സ്വാൽബാഡും ജാൻ മായേനും"
+
+msgid "Slovakia"
+msgstr "സ്ലോവാക്യ"
+
+msgid "Sierra Leone"
+msgstr "സിയെറ ലിയോൺ"
+
+msgid "San Marino"
+msgstr "സാൻ മറിനോ"
+
+msgid "Senegal"
+msgstr "സെനഗൽ"
+
+msgid "Somalia"
+msgstr "സോമാലിയ"
+
+msgid "Suriname"
+msgstr "സുരിനാം"
+
+msgid "South Sudan"
+msgstr "ദക്ഷിണ സുഡാൻ"
+
+msgid "São Tomé & Príncipe"
+msgstr "സാവോ ടോമും പ്രിൻസിപെയും"
+
+msgid "El Salvador"
+msgstr "എൽ സാൽവദോർ"
+
+msgid "Sint Maarten"
+msgstr "സിന്റ് മാർട്ടെൻ"
+
+msgid "Syria"
+msgstr "സിറിയ"
+
+msgid "Swaziland"
+msgstr "സ്വാസിലാൻഡ്"
+
+msgid "Tristan da Cunha"
+msgstr "ട്രിസ്റ്റൻ ഡ കൂന"
+
+msgid "Turks & Caicos Islands"
+msgstr "ടർക്ക്‌സും കെയ്‌ക്കോ ദ്വീപുകളും"
+
+msgid "Chad"
+msgstr "ഛാഡ്"
+
+msgid "French Southern Territories"
+msgstr "ഫ്രഞ്ച് ദക്ഷിണ ഭൂപ്രദേശം"
+
+msgid "Togo"
+msgstr "ടോഗോ"
+
+msgid "Thailand"
+msgstr "തായ്‌ലാൻഡ്"
+
+msgid "Tajikistan"
+msgstr "താജിക്കിസ്ഥാൻ"
+
+msgid "Tokelau"
+msgstr "ടോക്കെലൂ"
+
+msgid "East Timor"
+msgstr "കിഴക്കൻ തിമോർ"
+
+msgid "Turkmenistan"
+msgstr "തുർക്ക്മെനിസ്ഥാൻ"
+
+msgid "Tunisia"
+msgstr "ടുണീഷ്യ"
+
+msgid "Tonga"
+msgstr "ടോംഗ"
+
+msgid "Turkey"
+msgstr "തുർക്കിയെ"
+
+msgid "Trinidad & Tobago"
+msgstr "ട്രിനിഡാഡും ടുബാഗോയും"
+
+msgid "Tuvalu"
+msgstr "ടുവാലു"
+
+msgid "Taiwan"
+msgstr "തായ്‌വാൻ"
+
+msgid "Tanzania"
+msgstr "ടാൻസാനിയ"
+
+msgid "Ukraine"
+msgstr "ഉക്രെയ്‌ൻ"
+
+msgid "Uganda"
+msgstr "ഉഗാണ്ട"
+
+msgid "U.S. Outlying Islands"
+msgstr "യു.എസ്. ദ്വീപസമൂഹങ്ങൾ"
+
+msgid "UN"
+msgstr "യുഎൻ"
+
+msgid "US"
+msgstr "യു.എസ്"
+
+msgid "Uruguay"
+msgstr "ഉറുഗ്വേ"
+
+msgid "Uzbekistan"
+msgstr "ഉസ്‌ബെക്കിസ്ഥാൻ"
+
+msgid "Vatican City"
+msgstr "വത്തിക്കാൻ"
+
+msgid "St. Vincent & Grenadines"
+msgstr "സെന്റ് വിൻസെന്റും ഗ്രനെഡൈൻസും"
+
+msgid "Venezuela"
+msgstr "വെനിസ്വേല"
+
+msgid "British Virgin Islands"
+msgstr "ബ്രിട്ടീഷ് വെർജിൻ ദ്വീപുകൾ"
+
+msgid "U.S. Virgin Islands"
+msgstr "യു.എസ്. വെർജിൻ ദ്വീപുകൾ"
+
+msgid "Vietnam"
+msgstr "വിയറ്റ്നാം"
+
+msgid "Vanuatu"
+msgstr "വന്വാതു"
+
+msgid "Wallis & Futuna"
+msgstr "വാലിസ് ആന്റ് ഫ്യൂച്യുന"
+
+msgid "Samoa"
+msgstr "സമോവ"
+
+msgid "Pseudo-Accents"
+msgstr "കൃത്രിമ ഉച്ചാരണം"
+
+msgid "Pseudo-Bidi"
+msgstr "സ്യൂഡോ-ബൈഡി"
+
+msgid "Kosovo"
+msgstr "കൊസോവൊ"
+
+msgid "Yemen"
+msgstr "യെമൻ"
+
+msgid "Mayotte"
+msgstr "മയോട്ടി"
+
+msgid "South Africa"
+msgstr "ദക്ഷിണാഫ്രിക്ക"
+
+msgid "Zambia"
+msgstr "സാംബിയ"
+
+msgid "Zimbabwe"
+msgstr "സിംബാബ്‌വേ"
+
+msgid "Unknown Region"
+msgstr "അജ്ഞാത പ്രദേശം"
+

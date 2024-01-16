@@ -9,7 +9,7 @@ from xml.etree import ElementTree
 orig = ElementTree.fromstring(open('common/main/en.xml').read())
 translated = [ElementTree.fromstring(open('common/main/%s.xml' % t).read()) for t in sys.argv[1:]]
 
-print '''# SOME DESCRIPTIVE TITLE.
+print('''# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\\n"
 "Language: \\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\\n"
-'''
+''')
 
 orig_elems = orig.findall('localeDisplayNames/territories/territory')
 translated_elems = [xml.findall('localeDisplayNames/territories/territory') for xml in translated]
@@ -38,5 +38,5 @@ translated_dict = {}
 for elems in translated_elems:
     translated_dict.update(dict((t.attrib['type'], t.text) for t in elems))
 
-for key, orig in orig_dict.iteritems():
-    print ('''msgid "%s"\nmsgstr "%s"\n''' % (orig, translated_dict.get(key, u''))).encode('utf-8')
+for key, orig in orig_dict.items():
+    print(('''msgid "%s"\nmsgstr "%s"\n''' % (orig, translated_dict.get(key, u''))))
